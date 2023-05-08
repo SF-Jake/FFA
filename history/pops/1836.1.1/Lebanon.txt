@@ -221,7 +221,7 @@
 	artisans = {
 		culture = mashriqi
 		religion = sunni
-		size = 6550
+		size = 500
 	}
 
 	soldiers = {
@@ -230,10 +230,10 @@
 		size = 100
 	}
 
-	labourers = {
+	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 3125
+		size = 9175
 	}
 
 	clergymen = {
@@ -248,7 +248,7 @@
 		size = 100
 	}
 
-	labourers = {
+	farmers = {
 		culture = mashriqi
 		religion = orthodox
 		size = 1875

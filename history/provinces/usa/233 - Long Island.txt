@@ -1,6 +1,10 @@
-owner = JAN
-controller = JAN
-add_core = JAN
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = grain
-life_rating = 40 
- 
+naval_base = 1
+life_rating = 35
+1861.1.1 = { 
+	railroad = 3 
+	naval_base = 3
+}

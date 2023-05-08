@@ -4,19 +4,19 @@
 #Singapore (36000/9000 POPS)
 1384 = {
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 2450
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 500
 	}
@@ -40,27 +40,27 @@
 	}
 
 	artisans = {
-		culture = malay
-		religion = sunni
+		culture = tamil
+		religion = hindu
 		size = 1100
 	}
 }
 #Malacca (52800/13200 POPS)
 1386 = {
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 1450
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 1500
 	}
@@ -104,19 +104,19 @@
 #Penang (84000/21000 POPS)
 1388 = {
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 3875
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 2075
 	}
@@ -191,19 +191,19 @@
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 1450
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 500
 	}
@@ -225,7 +225,7 @@
 	artisans = {
 		culture = malay
 		religion = sunni
-		size = 1000
+		size = 750
 	}
 
 	soldiers = {
@@ -234,24 +234,29 @@
 		size = 1100
 	}
 
-	farmers = {
+	labourers = {
 		culture = malay
 		religion = sunni
-		size = 12700
+		size = 12950
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 50
 	}
 
-	farmers = {
-		culture = beifaren
+	artisans = {
+		culture = yue
 		religion = mahayana
-		size = 2050
+		size = 950
 	}
 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 1100
+	}
 }
 #Kuantan (32000/8000 POPS)
 1390 = {
@@ -279,7 +284,7 @@
 		size = 75
 	}
 
-	farmers = {
+	labourers = {
 		culture = malay
 		religion = sunni
 		size = 7375
@@ -302,7 +307,7 @@
 	artisans = {
 		culture = malay
 		religion = sunni
-		size = 1000
+		size = 1500
 	}
 
 	soldiers = {
@@ -311,24 +316,29 @@
 		size = 1100
 	}
 
-	farmers = {
+	labourers = {
 		culture = malay
 		religion = sunni
-		size = 26400
+		size = 25900
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 75
 	}
 
-	farmers = {
-		culture = beifaren
+	artisans = {
+		culture = yue
 		religion = mahayana
-		size = 2925
+		size = 925
 	}
 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 2000
+	}
 }
 #under Overlordship of Siam 1836 (284000)
 #Alor Setar (116000/29000 POPS)
@@ -364,19 +374,19 @@
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 950
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 1100
 	}
@@ -414,19 +424,19 @@
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 950
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 1100
 	}
@@ -460,16 +470,22 @@
 		size = 50
 	}
 
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 300
+	}
+
 	soldiers = {
 		culture = malay
 		religion = sunni
 		size = 75
 	}
 
-	labourers = {
+	farmers = {
 		culture = malay
 		religion = sunni
-		size = 5725
+		size = 5425
 	}
 }
 #Kuching (88000/22000 POPS)
@@ -535,19 +551,19 @@
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 475
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 500
 	}
@@ -634,6 +650,12 @@
 		size = 250
 	}
 
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 75
+	}
+
 	farmers = {
 		culture = asian_minor
 		religion = animist
@@ -661,29 +683,29 @@
 	soldiers = {
 		culture = malay
 		religion = sunni
-		size = 1100
+		size = 75
 	}
 
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 5475
+		size = 6425
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 500
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = yue
 		religion = mahayana
 		size = 475
 	}
@@ -706,7 +728,7 @@
 	artisans = {
 		culture = asian_minor
 		religion = animist
-		size = 5300
+		size = 300
 	}
 
 	soldiers = {
@@ -715,10 +737,10 @@
 		size = 75
 	}
 
-	labourers = {
+	farmers = {
 		culture = asian_minor
 		religion = animist
-		size = 1475
+		size = 6475
 	}
 
 	aristocrats = {
@@ -745,7 +767,7 @@
 		size = 25
 	}
 
-	labourers = {
+	farmers = {
 		culture = malay
 		religion = sunni
 		size = 2750

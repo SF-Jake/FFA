@@ -2,107 +2,35 @@
 #under the rule of Khiva in 1836  
 #Dashhowuz (40000/10000 POPS) #now part of Turkmenistan  
 1195 = {
-    aristocrats = {
-        culture = turkmen
-        religion = sunni
-        size = 900
-    }
+	aristocrats = {
+		culture = turkmen
+		religion = sunni
+		size = 175
+	}
 
-    clergymen = {
-        culture = turkmen
-        religion = sunni
-        size = 450
-    }
+	clergymen = {
+		culture = turkmen
+		religion = sunni
+		size = 75
+	}
 
-    artisans = {
-        culture = turkmen
-        religion = sunni
-        size = 2300
-    }
+	artisans = {
+		culture = turkmen
+		religion = sunni
+		size = 450
+	}
 
-    soldiers = {
-        culture = turkmen
-        religion = sunni
-        size = 3000
-    }
+	soldiers = {
+		culture = turkmen
+		religion = sunni
+		size = 100
+	}
 
-    soldiers = {
-        culture = turkmen
-        religion = sunni
-        size = 1000
-    }
-
-    farmers = {
-        culture = turkmen
-        religion = sunni
-        size = 38850
-    }
-
-    aristocrats = {
-        culture = kazak
-        religion = sunni
-        size = 50
-    }
-
-    clergymen = {
-        culture = kazak
-        religion = sunni
-        size = 25
-    }
-
-    artisans = {
-        culture = kazak
-        religion = sunni
-        size = 125
-    }
-
-    soldiers = {
-        culture = kazak
-        religion = sunni
-        size = 25
-    }
-
-    farmers = {
-        culture = kazak
-        religion = sunni
-        size = 2775
-    }
-
-    aristocrats = {
-        culture = pashtun
-        religion = sunni
-        size = 125
-    }
-
-    clergymen = {
-        culture = pashtun
-        religion = sunni
-        size = 50
-    }
-
-    artisans = {
-        culture = pashtun
-        religion = sunni
-        size = 325
-    }
-
-    soldiers = {
-        culture = pashtun
-        religion = sunni
-        size = 50
-    }
-
-    farmers = {
-        culture = pashtun
-        religion = sunni
-        size = 6450
-    }
-
-    slaves = {
-        culture = turkmen
-        religion = sunni
-        size = 2000
-    }
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 9200
+	}
 }
 #Turkmenia Region (368000) 
 #under the rule of Khiva in 1836  
@@ -179,7 +107,7 @@
 	artisans = {
 		culture = turkmen
 		religion = sunni
-		size = 16050
+		size = 850
 	}
 
 	soldiers = {
@@ -188,10 +116,10 @@
 		size = 200
 	}
 
-	labourers = {
+	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 2200
+		size = 17400
 	}
 
 	clergymen = {
@@ -212,7 +140,7 @@
 		size = 25
 	}
 
-	labourers = {
+	farmers = {
 		culture = persian
 		religion = shiite
 		size = 2800
@@ -222,31 +150,31 @@
 #Merv (132000/33000 POPS)   
 1206 = {
 	aristocrats = {
-		culture = pashtun
+		culture = tajik
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = tajik
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = tajik
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = tajik
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = tajik
 		religion = sunni
 		size = 1825
 	}

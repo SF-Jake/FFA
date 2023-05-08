@@ -1,6 +1,6 @@
-owner = JAN
-controller = JAN
-add_core = JAN
-trade_goods = grain
-life_rating = 40 
- 
+owner = MEW
+controller = MEW
+add_core = MEW
+add_core = HND
+trade_goods = cotton
+life_rating = 32

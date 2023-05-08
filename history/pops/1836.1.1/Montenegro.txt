@@ -146,13 +146,13 @@
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 7075
+		size = 250
 	}
 
-	labourers = {
+	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 1350
+		size = 8175
 	}
 
 	aristocrats = {
@@ -179,7 +179,7 @@
 		size = 150
 	}
 
-	labourers = {
+	farmers = {
 		culture = bosniak
 		religion = sunni
 		size = 3650

@@ -3,25 +3,25 @@
 #Reykjavik (56000/14000 POPS)
 252 = {
 	bureaucrats = {
-		culture = danish
+		culture = icelandic
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = danish
+		culture = icelandic
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = danish
+		culture = icelandic
 		religion = protestant
 		size = 750
 	}
 
 	farmers = {
-		culture = danish
+		culture = icelandic
 		religion = protestant
 		size = 13125
 	}

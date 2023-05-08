@@ -1,6 +1,8 @@
-owner = JAN
-controller = JAN
-add_core = JAN
-trade_goods = grain
-life_rating = 40 
- 
+trade_goods = wool
+life_rating = 15
+add_core = SAF
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 2
+}

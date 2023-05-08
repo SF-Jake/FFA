@@ -11,7 +11,7 @@
 	bureaucrats = {
 		culture = north_caucasian
 		religion = sunni
-		size = 4500
+		size = 450
 	}
 
 	officers = {
@@ -41,7 +41,7 @@
 	bureaucrats = {
 		culture = misri
 		religion = sunni
-		size = 1250
+		size = 125
 	}
 
 	officers = {
@@ -62,6 +62,30 @@
 		size = 10000
 	}
 
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 4500
+	}
+
 	soldiers = {
 		culture = misri
 		religion = sunni
@@ -71,13 +95,13 @@
 	farmers = {
 		culture = misri
 		religion = sunni
-		size = 167700
+		size = 133200
 	}
 
 	bureaucrats = {
 		culture = misri
 		religion = coptic
-		size = 250
+		size = 25
 	}
 
 	clergymen = {
@@ -123,7 +147,7 @@
 	}
 
 	slaves = {
-		culture = e_african
+		culture = african_minor
 		religion = animist
 		size = 9000
 	}
@@ -493,7 +517,7 @@
 	bureaucrats = {
 		culture = misri
 		religion = sunni
-		size = 1500
+		size = 150
 	}
 
 	officers = {
@@ -529,7 +553,7 @@
 	bureaucrats = {
 		culture = misri
 		religion = coptic
-		size = 250
+		size = 25
 	}
 
 	clergymen = {
@@ -575,7 +599,7 @@
 	}
 
 	slaves = {
-		culture = e_african
+		culture = african_minor
 		religion = animist
 		size = 6000
 	}
@@ -613,31 +637,31 @@
 	}
 
 	aristocrats = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 2700
 	}
@@ -645,31 +669,31 @@
 #Sidi Barrani (20000/5000 POPS)
 1753 = {
 	aristocrats = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 4575
 	}
@@ -677,31 +701,31 @@
 #Siwa (16000/4000 POPS)
 1754 = {
 	aristocrats = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 3650
 	}
@@ -719,7 +743,7 @@
 	bureaucrats = {
 		culture = misri
 		religion = sunni
-		size = 100
+		size = 10
 	}
 
 	officers = {
@@ -785,31 +809,31 @@
 	}
 
 	aristocrats = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 1800
 	}
@@ -847,31 +871,31 @@
 	}
 
 	aristocrats = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 1800
 	}
@@ -881,31 +905,31 @@
 #Farafra (8000/2000 POPS)
 1758 = {
 	aristocrats = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 1800
 	}
@@ -913,31 +937,31 @@
 #Bawiti (12000/3000 POPS)
 1759 = {
 	aristocrats = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 2700
 	}
@@ -945,31 +969,31 @@
 #Mut (20000/5000 POPS)
 1760 = {
 	aristocrats = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 4575
 	}
@@ -977,31 +1001,31 @@
 #Baris (16000/4000 POPS)
 1761 = {
 	aristocrats = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 3650
 	}
@@ -1019,7 +1043,7 @@
 	bureaucrats = {
 		culture = misri
 		religion = sunni
-		size = 1100
+		size = 110
 	}
 
 	officers = {
@@ -1055,7 +1079,7 @@
 	bureaucrats = {
 		culture = misri
 		religion = coptic
-		size = 150
+		size = 15
 	}
 
 	clergymen = {
@@ -1289,7 +1313,7 @@
 	bureaucrats = {
 		culture = misri
 		religion = sunni
-		size = 450
+		size = 45
 	}
 
 	officers = {
@@ -1307,7 +1331,7 @@
 	artisans = {
 		culture = misri
 		religion = sunni
-		size = 6330
+		size = 500
 	}
 
 	soldiers = {
@@ -1316,16 +1340,16 @@
 		size = 125
 	}
 
-	labourers = {
+	farmers = {
 		culture = misri
 		religion = sunni
-		size = 3150
+		size = 8980
 	}
 
 	bureaucrats = {
 		culture = misri
 		religion = coptic
-		size = 50
+		size = 5
 	}
 
 	clergymen = {
@@ -1340,7 +1364,7 @@
 		size = 100
 	}
 
-	labourers = {
+	farmers = {
 		culture = misri
 		religion = coptic
 		size = 1850
@@ -1501,31 +1525,31 @@
 #Qusayr (12000/3000 POPS)
 1770 = {
 	aristocrats = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 2700
 	}
@@ -1563,31 +1587,31 @@
 	}
 
 	aristocrats = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 3650
 	}
@@ -1595,31 +1619,31 @@
 #Ras Gharib (12000/3000 POPS)
 1772 = {
 	aristocrats = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-        culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 2700
 	}

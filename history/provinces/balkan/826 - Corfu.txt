@@ -1,6 +1,6 @@
-owner = JAN
-controller = JAN
-add_core = JAN
-trade_goods = grain
-life_rating = 40 
- 
+owner = ION
+controller = ION
+add_core = ION
+add_core = GRE
+trade_goods = fish
+life_rating = 35

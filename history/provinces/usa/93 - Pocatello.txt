@@ -1,6 +1,9 @@
-owner = JAN
-controller = JAN
-add_core = JAN
-trade_goods = grain
-life_rating = 40 
- 
+trade_goods = cattle
+life_rating = 35
+owner = USA
+controller = USA
+add_core = USA
+colonial = 2
+1861.1.1 = {
+	add_core = USA
+}

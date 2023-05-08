@@ -171,25 +171,7 @@
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 25675
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 20000
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 20000
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 20000
+		size = 10000
 	}
 
 	soldiers = {
@@ -198,10 +180,10 @@
 		size = 1050 
 	}
 
-	labourers = {
+	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 5000 
+		size = 80675 
 	}
 }
 #Judenburg (168000/42000 POPS)
@@ -221,25 +203,19 @@
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 20000
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 14800
+		size = 2250
 	}
 
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 1050 
+		size = 450 
 	}
 
-	labourers = {
+	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 5000
+		size = 38150
 	}
 }
 #Klagenfurt (188000/47000 POPS)
@@ -259,7 +235,7 @@
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 21225
+		size = 1550
 	}
 
 	soldiers = {
@@ -268,34 +244,34 @@
 		size = 1100 
 	}
 
-	labourers = {
+	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 6000
+		size = 25675
 	}
 
 	clergymen = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 175 
 	}
 
 	artisans = {
-		culture = croat
+		culture = slovene
 		religion = catholic
-		size = 13625
+		size = 950
 	}
 
 	soldiers = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 200 
 	}
 
-	labourers = {
-		culture = croat
+	farmers = {
+		culture = slovene
 		religion = catholic
-		size = 4000 
+		size = 16675 
 	}
 }
 #Austria Region (2000000) 
@@ -311,7 +287,7 @@
 	bureaucrats = {
 		culture = south_german
 		religion = catholic
-		size = 1300
+		size = 1400 
 	}
 
 	officers = {
@@ -338,16 +314,40 @@
 		size = 10000
 	}
 
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 7500
+	}
+
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 4750 
+		size = 2750 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 230050
+		size = 194550
 	}
 
 	clergymen = {
@@ -409,7 +409,7 @@
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 11125
+		size = 1200
 	}
 
 	soldiers = {
@@ -418,10 +418,10 @@
 		size = 250 
 	}
 
-	labourers = {
+	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 10000 
+		size = 19925 
 	}
 }
 #Krems (240000/60000 POPS)
@@ -447,13 +447,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 1050 
+		size = 650 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 54300
+		size = 54700
 	}
 }
 #Linz (588000/147000 POPS)
@@ -473,37 +473,7 @@
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 26550
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 20000
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 20000
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 20000
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 20000
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 20000
+		size = 7650
 	}
 
 	soldiers = {
@@ -512,10 +482,10 @@
 		size = 1550 
 	}
 
-	labourers = {
+	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 15000
+		size = 133900
 	}
 }
 #Odenburg Region (196000) #see Hungary.txt for balance of region

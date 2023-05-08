@@ -1,6 +1,6 @@
-owner = JAN
-controller = JAN
-add_core = JAN
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = CAT
 trade_goods = grain
-life_rating = 40 
- 
+life_rating = 31

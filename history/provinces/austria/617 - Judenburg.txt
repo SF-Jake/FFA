@@ -1,6 +1,5 @@
-owner = JAN
-controller = JAN
-add_core = JAN
-trade_goods = grain
-life_rating = 40 
- 
+owner = AUS
+controller = AUS
+add_core = AUS
+trade_goods = iron
+life_rating = 35

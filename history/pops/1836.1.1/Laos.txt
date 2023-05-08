@@ -3,43 +3,43 @@
 #Louangprabang (240000/60000 POPS) #asian_minor = hmong/montagnard  
 1356 = {
 	aristocrats = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 800
 	}
 
 	bureaucrats = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 75
 	}
 
 	officers = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 100
 	}
 
 	clergymen = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 425
 	}
 
 	artisans = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 2150
 	}
 
 	soldiers = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 1100
 	}
 
 	farmers = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 37940
 	}
@@ -59,49 +59,49 @@
 	artisans = {
 		culture = asian_minor
 		religion = animist
-		size = 200
+		size = 800
 	}
 
 	soldiers = {
 		culture = asian_minor
 		religion = animist
-		size = 1100
+		size = 175
 	}
 
 	farmers = {
 		culture = asian_minor
 		religion = animist
-		size = 15250
+		size = 15575
 	}
 }
 #Vientiane (88000/22000 POPS)   
 1357 = {
 	aristocrats = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 250
 	}
 
 	clergymen = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 150
 	}
 
 	artisans = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 750
 	}
 
 	soldiers = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 150
 	}
 
 	farmers = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 13700
 	}
@@ -139,31 +139,31 @@
 #Savannakhet (80000/20000 POPS)   
 1361 = {
 	aristocrats = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 250
 	}
 
 	clergymen = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 150
 	}
 
 	artisans = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 750
 	}
 
 	soldiers = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 150
 	}
 
 	farmers = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 13700
 	}
@@ -201,31 +201,31 @@
 #Satavan (168000/42000 POPS)   
 1362 = {
 	aristocrats = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 450
 	}
 
 	clergymen = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 250
 	}
 
 	artisans = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 1200
 	}
 
 	soldiers = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 1100
 	}
 
 	farmers = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 21096
 	}
@@ -248,71 +248,77 @@
 		size = 900
 	}
 
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 175
+	}
+
 	farmers = {
 		culture = asian_minor
 		religion = animist
-		size = 16575
+		size = 16425
 	}
 }
 #under the rule of Siam in 1836  
 #Xaignabouli (64000/16000 POPS)   
 1360 = {
 	aristocrats = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 150
 	}
 
 	clergymen = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 75
 	}
 
 	artisans = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 400
 	}
 
 	soldiers = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 75
 	}
 
 	farmers = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 8300
 	}
 
 	aristocrats = {
-		culture = burmese
+		culture = shan
 		religion = theravada
 		size = 125
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = shan
 		religion = theravada
 		size = 75
 	}
 
 	artisans = {
-		culture = burmese
+		culture = shan
 		religion = theravada
 		size = 350
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = shan
 		religion = theravada
 		size = 75
 	}
 
 	farmers = {
-		culture = burmese
+		culture = shan
 		religion = theravada
 		size = 6375
 	}
@@ -320,33 +326,33 @@
 #Paekche (60000/15000 POPS)   
 1363 = {
 	aristocrats = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 275
 	}
 
 	clergymen = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
 		size = 150
 	}
 
 	artisans = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
-		size = 250
+		size = 750
 	}
 
 	soldiers = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
-		size = 1100
+		size = 125
 	}
 
 	farmers = {
-		culture = vietnamese
+		culture = lao
 		religion = theravada
-		size = 13225
+		size = 13700
 	}
 
 }

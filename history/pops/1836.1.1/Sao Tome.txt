@@ -33,32 +33,32 @@
 	}
 
 	clergymen = {
-		culture = c_african
+		culture = african_minor
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = c_african
+		culture = african_minor
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = c_african
+		culture = african_minor
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = c_african
+		culture = african_minor
 		religion = catholic
 		size = 550
 	}
 
 	slaves = {
-		culture = c_african
-		religion = animist
+		culture = african_minor
+		religion = catholic
 		size = 3450
 	}
 

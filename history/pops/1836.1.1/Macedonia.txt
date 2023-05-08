@@ -90,13 +90,6 @@
 #under the rule of Ottoman Empire in 1836  
 #Bitola (268000/67000 POPS) 
 807 = {
-
-	bureaucrats = {
-		culture = bulgarian
-		religion = orthodox
-		size = 1200
-	}
-
 	clergymen = {
 		culture = bulgarian
 		religion = orthodox
@@ -106,13 +99,13 @@
 	artisans = {
 		culture = bulgarian
 		religion = orthodox
-		size = 400
+		size = 425
 	}
 
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 35100
+		size = 36275
 	}
 
 	aristocrats = {

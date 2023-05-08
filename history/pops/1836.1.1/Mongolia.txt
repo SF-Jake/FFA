@@ -23,7 +23,7 @@
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-		size = 1000
+		size = 4000
 	}
 
 	artisans = {
@@ -41,7 +41,7 @@
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 87350
+		size = 84350
 	}
 
 	bureaucrats = {
@@ -139,31 +139,31 @@
 	}
 
 	aristocrats = {
-		culture = mongol
+		culture = yakut
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = yakut
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = mongol
+		culture = yakut
 		religion = animist
 		size = 125
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = yakut
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = mongol
+		culture = yakut
 		religion = animist
 		size = 2750
 	}
@@ -251,13 +251,7 @@
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-		size = 20000
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 11500
+		size = 1500
 	}
 
 	soldiers = {
@@ -266,10 +260,10 @@
 		size = 375
 	}
 
-	labourers = {
+	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 5000
+		size = 35000
 	}
 }
 #Bulgan (84000/21000 POPS)   
@@ -369,31 +363,31 @@
 #Uliatai (32000/8000 POPS) #now Tuva Republic of Russia  Tatar = Tuvan   
 1469 = {
 	aristocrats = {
-		culture = mongol
+		culture = tatar
 		religion = gelugpa
 		size = 150
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = tatar
 		religion = gelugpa
 		size = 75
 	}
 
 	artisans = {
-		culture = mongol
+		culture = tatar
 		religion = gelugpa
 		size = 400
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = tatar
 		religion = gelugpa
 		size = 75
 	}
 
-	labourers = {
-		culture = mongol
+	farmers = {
+		culture = tatar
 		religion = gelugpa
 		size = 7300
 	}

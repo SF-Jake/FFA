@@ -334,15 +334,10 @@
 #under the rule of Serbia in 1836
 #Belgrade (328000/82000 POPS)
 794 = {
-	aristocrats = {
-		culture = serb
-		religion = orthodox
-		size = 300
-	}
 	bureaucrats = {
 		culture = serb
 		religion = orthodox
-		size = 1600
+		size = 300
 	}
 
 	officers = {
@@ -360,13 +355,13 @@
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 3200
+		size = 4000
 	}
 
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 8200
+		size = 1100
 	}
 
 	farmers = {
@@ -392,7 +387,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 5500
+		size = 1100
 	}
 
 	farmers = {
@@ -412,25 +407,19 @@
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 20000
-	}
-
-	artisans = {
-		culture = serb
-		religion = orthodox
-		size = 15550
+		size = 2350
 	}
 
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 4700
+		size = 1100
 	}
 
-	labourers = {
+	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 10000
+		size = 43200
 	}
 }
 #Uzice (72000/18000 POPS)
@@ -450,7 +439,7 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 1800
+		size = 1100
 	}
 
 	farmers = {
@@ -462,12 +451,6 @@
 #under the rule of Ottoman Empire in 1836
 #Nis (260000/65000 POPS)
 798 = {
-	bureaucrats = {
-		culture = serb
-		religion = orthodox
-		size = 1100
-	}
-
 	clergymen = {
 		culture = serb
 		religion = orthodox
@@ -477,13 +460,13 @@
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 1000
+		size = 2000
 	}
 
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 49450
+		size = 49550
 	}
 
 	clergymen = {
@@ -513,7 +496,7 @@
 	bureaucrats = {
 		culture = turkish
 		religion = sunni
-		size = 200
+		size = 150
 	}
 
 	officers = {
@@ -531,7 +514,7 @@
 	artisans = {
 		culture = turkish
 		religion = sunni
-		size = 500
+		size = 3000
 	}
 
 	soldiers = {
@@ -543,7 +526,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 5900
+		size = 3450
 	}
 }
 #Leskovac (220000/55000 POPS)
@@ -805,13 +788,13 @@
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 9400
+		size = 400
 	}
 
-	labourers = {
+	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 3000
+		size = 12000
 	}
 
 	aristocrats = {
@@ -829,7 +812,7 @@
 	artisans = {
 		culture = bosniak
 		religion = sunni
-		size = 2050
+		size = 500
 	}
 
 	soldiers = {
@@ -838,10 +821,10 @@
 		size = 1100
 	}
 
-	labourers = {
+	farmers = {
 		culture = bosniak
 		religion = sunni
-		size = 2000
+		size = 3550
 	}
 
 }

@@ -1,6 +1,21 @@
-owner = JAN
-controller = JAN
-add_core = JAN
-trade_goods = grain
-life_rating = 40 
- 
+owner = TEX
+controller = TEX
+add_core = TEX
+trade_goods = cattle
+life_rating = 35
+1861.1.1 = {
+owner = USA
+controller = USA
+add_core = USA
+}
+1861.1.1 = {
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+	state_building = {
+		level = 1
+		building = canned_food_factory
+		upgrade = yes
+	}
+}
+1861.1.1 = { railroad = 2 }

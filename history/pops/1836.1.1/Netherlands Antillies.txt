@@ -14,7 +14,7 @@
 		size = 25
 	}
 
-	labourers = {
+	artisans = {
 		culture = dutch
 		religion = protestant
 		size = 70
@@ -26,16 +26,22 @@
 		size = 20
 	}
 
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 150
+	}
+
 	soldiers = {
 		culture = afro_caribbean
 		religion = catholic
 		size = 30
 	}
 
-	labourers = {
+	farmers = {
 		culture = afro_caribbean
 		religion = catholic
-		size = 2950
+		size = 2800
 	}
 }
 #Aruba (2400/600 POPS)

@@ -1,11 +1,10 @@
-owner = PNJ
-controller = PNJ
-add_core = PNJ
-add_core = HND
-trade_goods = tea_leaves
+owner = PAN
+controller = PAN
+add_core = PAN
+add_core = KAS
+trade_goods = tea
 life_rating = 35
-1913.1.1 = {
-	owner = EIC
-	controller = EIC
-	colonial = 0
+1861.1.1 = {
+	owner = KAS
+	controller = KAS
 }

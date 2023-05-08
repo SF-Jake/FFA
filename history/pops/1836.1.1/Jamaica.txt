@@ -23,7 +23,7 @@
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 3690
+		size = 2500
 	}
 
 	soldiers = {
@@ -32,10 +32,10 @@
 		size = 50
 	}
 
-	labourers = {
+	farmers = {
 		culture = british
 		religion = protestant
-		size = 1000
+		size = 2190
 	}
 
 	clergymen = {
@@ -47,25 +47,7 @@
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 20000
-	}
-
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 20000
-	}
-
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 20000
-	}
-
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 17375
+		size = 2000
 	}
 
 	soldiers = {
@@ -74,10 +56,10 @@
 		size = 1100
 	}
 
-	labourers = {
+	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 8999
+		size = 84375
 	}
 }
 #Cayman Islands : (1200/300 POPS) #still a British Colony

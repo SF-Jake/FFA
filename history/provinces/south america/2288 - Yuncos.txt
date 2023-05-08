@@ -1,6 +1,7 @@
-owner = JAN
-controller = JAN
-add_core = JAN
-trade_goods = grain
-life_rating = 40 
- 
+owner = ECU
+controller = ECU
+add_core = ECU
+add_core = PEU
+add_core = GCO
+trade_goods = wool
+life_rating = 30

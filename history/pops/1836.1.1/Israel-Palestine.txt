@@ -387,31 +387,31 @@
 	}
 
 	aristocrats = {
-        culture = bedouin
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-        culture = bedouin
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-        culture = bedouin
+		culture = bedouin
 		religion = sunni
 		size = 75
 	}
 
 	soldiers = {
-        culture = bedouin
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-        culture = bedouin
+		culture = bedouin
 		religion = sunni
 		size = 1850
 	}

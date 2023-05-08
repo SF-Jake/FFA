@@ -3,61 +3,61 @@
 #Khujand (200000/50000 POPS) #now part of Tajikistan  
 1201 = {
 	aristocrats = {
-		culture = turkmen
+		culture = uzbek
 		religion = sunni
 		size = 775
 	}
 
 	clergymen = {
-		culture = turkmen
+		culture = uzbek
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = turkmen
+		culture = uzbek
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = turkmen
+		culture = uzbek
 		religion = sunni
 		size = 400
 	}
 
 	farmers = {
-		culture = turkmen
+		culture = uzbek
 		religion = sunni
 		size = 36425
 	}
 
 	aristocrats = {
-		culture = pashtun
+		culture = tajik
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = tajik
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = tajik
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = tajik
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = tajik
 		religion = sunni
 		size = 9150
 	}
@@ -66,126 +66,96 @@
 #under the rule of Kokand in 1836  
 #Kulob (120000/30000 POPS)   
 1207 = {
-    aristocrats = {
-        culture = pashtun
-        religion = sunni
-        size = 575
-    }
+	aristocrats = {
+		culture = tajik
+		religion = sunni
+		size = 575
+	}
 
-    clergymen = {
-        culture = pashtun
-        religion = sunni
-        size = 275
-    }
+	clergymen = {
+		culture = tajik
+		religion = sunni
+		size = 275
+	}
 
-    artisans = {
-        culture = pashtun
-        religion = sunni
-        size = 1450
-    }
+	artisans = {
+		culture = tajik
+		religion = sunni
+		size = 1450
+	}
 
-    soldiers = {
-        culture = pashtun
-        religion = sunni
-        size = 250
-    }
+	soldiers = {
+		culture = tajik
+		religion = sunni
+		size = 250
+	}
 
-    farmers = {
-        culture = pashtun
-        religion = sunni
-        size = 27450
-    }
-
-    slaves = {
-        culture = pashtun
-        religion = sunni
-        size = 2000
-    }
-
-    slaves = {
-        culture = uighur
-        religion = sunni
-        size = 4000
-    }
+	farmers = {
+		culture = tajik
+		religion = sunni
+		size = 27450
+	}
 }
 #Khorugh (92000/23000 POPS)   
 1208 = {
-    aristocrats = {
-        culture = pashtun
-        religion = sunni
-        size = 350
-    }
+	aristocrats = {
+		culture = tajik
+		religion = sunni
+		size = 350
+	}
 
-    bureaucrats = {
-        culture = pashtun
-        religion = sunni
-        size = 150
-    }
+	clergymen = {
+		culture = tajik
+		religion = sunni
+		size = 175
+	}
 
-    clergymen = {
-        culture = pashtun
-        religion = sunni
-        size = 175
-    }
+	artisans = {
+		culture = tajik
+		religion = sunni
+		size = 850
+	}
 
-    artisans = {
-        culture = pashtun
-        religion = sunni
-        size = 850
-    }
+	soldiers = {
+		culture = tajik
+		religion = sunni
+		size = 175
+	}
 
-    officers = {
-        culture = pashtun
-        religion = sunni
-        size = 100
-    }
+	farmers = {
+		culture = tajik
+		religion = sunni
+		size = 17450
+	}
 
-    soldiers = {
-        culture = pashtun
-        religion = sunni
-        size = 1000
-    }
+	aristocrats = {
+		culture = kirgiz
+		religion = sunni
+		size = 75
+	}
 
-    farmers = {
-        culture = pashtun
-        religion = sunni
-        size = 25450
-    }
+	clergymen = {
+		culture = kirgiz
+		religion = sunni
+		size = 75
+	}
 
-    aristocrats = {
-        culture = kazak
-        religion = sunni
-        size = 75
-    }
+	artisans = {
+		culture = kirgiz
+		religion = sunni
+		size = 175
+	}
 
-    clergymen = {
-        culture = kazak
-        religion = sunni
-        size = 75
-    }
+	soldiers = {
+		culture = kirgiz
+		religion = sunni
+		size = 25
+	}
 
-    artisans = {
-        culture = kazak
-        religion = sunni
-        size = 175
-    }
-
-    soldiers = {
-        culture = kazak
-        religion = sunni
-        size = 500
-    }
-
-    farmers = {
-        culture = kazak
-        religion = sunni
-        size = 3650
-    }
-
-    slaves = {
-        culture = uighur
-        religion = sunni
-        size = 5000
-    }
+	farmers = {
+		culture = kirgiz
+		religion = sunni
+		size = 3650
+	}
 
 }

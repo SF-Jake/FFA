@@ -1,6 +1,6 @@
-owner = JAN
-controller = JAN
-add_core = JAN
-trade_goods = grain
-life_rating = 40 
- 
+owner = XBI
+controller = XBI
+add_core = CHI
+add_core = XBI
+trade_goods = cotton
+life_rating = 32
