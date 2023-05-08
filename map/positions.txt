@@ -111329,43 +111329,6 @@
 
 } # An Nuhud
 
-2646 = {
-    text_position = {
-        x = 3252.980000
-        y = 990.390000
-    }
-
-    text_scale = 3.799
-    unit = {
-        x = 3250.930000
-        y = 1004.193333
-    }
-
-    factory = {
-        x = 3262.546667
-        y = 997.633333
-    }
-
-    building_construction = {
-        x = 3259.540000
-        y = 1012.530000
-    }
-
-    military_construction = {
-        x = 3250.520000
-        y = 982.463333
-    }
-
-    building_position = {
-        fort = {
-            x = 3243.960000
-            y = 1013.896667
-        }
-
-    }
-
-} # Kikkiakki
-
 2681 = {
     text_position = {
         x = 4094.975000
