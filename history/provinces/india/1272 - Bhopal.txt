@@ -1,6 +1,6 @@
-owner = BHO
-controller = BHO
-add_core = BHO
-add_core = HND
-trade_goods = dye
-life_rating = 32
+owner = JAN
+controller = JAN
+add_core = JAN
+trade_goods = grain
+life_rating = 40 
+ 

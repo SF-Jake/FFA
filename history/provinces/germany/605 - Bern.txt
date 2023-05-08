@@ -1,7 +1,6 @@
-owner = SWI
-controller = SWI
-add_core = SWI
-trade_goods = iron
-life_rating = 40
-fort = 1
-1861.1.1 = { railroad = 1 }
+owner = JAN
+controller = JAN
+add_core = JAN
+trade_goods = grain
+life_rating = 40 
+ 

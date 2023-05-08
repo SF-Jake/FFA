@@ -1,10 +1,5 @@
-owner = UCA
-controller = UCA
-add_core = UCA
-add_core = COS
-trade_goods = coffee
-life_rating = 30
-1861.1.1 = {
-	owner = COS
-	controller = COS
-}
+owner = JAN
+controller = JAN
+add_core = JAN
+trade_goods = grain
+life_rating = 40 

@@ -1,5 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
-trade_goods = iron
-life_rating = 30
+owner = JAN
+controller = JAN
+add_core = JAN
+trade_goods = grain
+life_rating = 40 
+ 

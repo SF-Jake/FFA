@@ -1,5 +1,6 @@
-owner = ETH
-controller = ETH
-add_core = ETH
+owner = JAN
+controller = JAN
+add_core = JAN
 trade_goods = grain
-life_rating = 30
+life_rating = 40 
+ 

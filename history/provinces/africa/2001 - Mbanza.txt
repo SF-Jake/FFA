@@ -1,5 +1,6 @@
-owner = POR
-controller = POR
-trade_goods = fruit
-life_rating = 35
-colonial = 2
+owner = JAN
+controller = JAN
+add_core = JAN
+trade_goods = grain
+life_rating = 40 
+ 

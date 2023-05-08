@@ -1,5 +1,6 @@
-owner = SIA
-controller = SIA
-add_core = SIA
-trade_goods = tropical_wood
-life_rating = 30
+owner = JAN
+controller = JAN
+add_core = JAN
+trade_goods = grain
+life_rating = 40 
+ 

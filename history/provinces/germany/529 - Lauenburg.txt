@@ -1,8 +1,6 @@
-owner = HOL
-controller = HOL
-add_core = HOL
-add_core = GER
+owner = JAN
+controller = JAN
+add_core = JAN
 trade_goods = grain
-life_rating = 40
-
-1861.1.1 = { railroad = 3 }
+life_rating = 40 
+ 

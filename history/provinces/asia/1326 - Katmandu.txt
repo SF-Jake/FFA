@@ -1,5 +1,6 @@
-owner = NEP
-controller = NEP
-add_core = NEP
-trade_goods = tea
-life_rating = 25
+owner = JAN
+controller = JAN
+add_core = JAN
+trade_goods = grain
+life_rating = 40 
+ 

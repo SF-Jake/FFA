@@ -1,6 +1,6 @@
-owner = GXI
-controller = GXI
-add_core = CHI
-add_core = GXI
-trade_goods = cotton
-life_rating = 32
+owner = JAN
+controller = JAN
+add_core = JAN
+trade_goods = grain
+life_rating = 40 
+ 

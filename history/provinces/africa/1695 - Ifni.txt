@@ -1,9 +1,6 @@
-owner = MOR
-controller = MOR
-add_core = MOR
-trade_goods = fish
-life_rating = 30
-1861.1.1 = {
-	owner = SPA
-	controller = SPA
-}
+owner = JAN
+controller = JAN
+add_core = JAN
+trade_goods = grain
+life_rating = 40 
+ 

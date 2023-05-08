@@ -1,6 +1,6 @@
-owner = ORI
-controller = ORI
-add_core = ORI
-add_core = HND
+owner = JAN
+controller = JAN
+add_core = JAN
 trade_goods = grain
-life_rating = 32
+life_rating = 40 
+ 

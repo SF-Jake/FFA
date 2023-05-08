@@ -1,4 +1,6 @@
-add_core = RUS
-add_core = JAP
-trade_goods = fish
-life_rating = 20
+owner = JAN
+controller = JAN
+add_core = JAN
+trade_goods = grain
+life_rating = 40 
+ 

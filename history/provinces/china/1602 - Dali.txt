@@ -1,6 +1,6 @@
-owner = YNN
-controller = YNN
-add_core = CHI
-add_core = YNN
-trade_goods = timber
-life_rating = 32
+owner = JAN
+controller = JAN
+add_core = JAN
+trade_goods = grain
+life_rating = 40 
+ 
