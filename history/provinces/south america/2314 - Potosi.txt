@@ -1,6 +1,5 @@
-owner = JAN
-controller = JAN
-add_core = JAN
+owner = BOL
+controller = BOL
+add_core = BOL
 trade_goods = grain
-life_rating = 40 
-
+life_rating = 30
