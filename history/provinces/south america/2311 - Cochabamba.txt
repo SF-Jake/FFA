@@ -1,5 +1,5 @@
-owner = BOL
-controller = BOL
-add_core = BOL
-trade_goods = fruit
-life_rating = 30
+owner = JAN
+controller = JAN
+add_core = JAN
+trade_goods = grain
+life_rating = 40 
