@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 1887
-	primary_culture = afro_american
+	primary_culture = united_culture
 	culture = western_nigritic
 	religion = protestant
 	government = democracy
@@ -59,7 +59,7 @@
 
 1836.1.1 = {
 	capital = 1887
-	primary_culture = afro_american
+	primary_culture = united_culture
 	culture = w_african
 	religion = protestant
 	government = democracy

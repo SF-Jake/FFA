@@ -680,7 +680,7 @@ migration_chance =
 	}
 	modifier = {
 		factor = 0.05
-		has_pop_culture = turkish
+		has_pop_culture = united_culture
 		country = { has_country_flag = embraced_ottomanism }
 	}
 	modifier = {
@@ -893,7 +893,7 @@ emigration_chance =
 	modifier = {
 		factor = -2.0
 		continent = asia
-		has_pop_culture = british
+		has_pop_culture = united_culture
 	}
 	group = {
 		modifier = {
@@ -1054,12 +1054,12 @@ emigration_chance =
 	modifier = {
 		factor = -0.2
 		OR = {
-			has_pop_culture = brazilian
-			has_pop_culture = platinean
-			has_pop_culture = mexican
-			has_pop_culture = north_andean
-			has_pop_culture = south_andean
-			has_pop_culture = central_american
+			has_pop_culture = united_culture
+			has_pop_culture = united_culture
+			has_pop_culture = united_culture
+			has_pop_culture = united_culture
+			has_pop_culture = united_culture
+			has_pop_culture = united_culture
 		}
 		country = {
 			OR = {
@@ -1070,23 +1070,23 @@ emigration_chance =
 	}
 	modifier = {
 		factor = 20
-		has_pop_culture = boer
+		has_pop_culture = united_culture
 		country = {
-			NOT = { primary_culture = boer }
+			NOT = { primary_culture = united_culture }
 			has_global_flag = die_groot_trek
 		}
 	}
 	modifier = {
 		factor = 1
 		OR = {
-			has_pop_culture = ashkenazi
-			has_pop_culture = sephardic
+			has_pop_culture = united_culture
+			has_pop_culture = united_culture
 		}
 		country = {
 			NOT = {
 				OR = {
-					primary_culture = ashkenazi
-					primary_culture = sephardic
+					primary_culture = united_culture
+					primary_culture = united_culture
 				}
 			}
 			has_global_flag = israel_exists
@@ -1096,18 +1096,18 @@ emigration_chance =
 		factor = 30
 		OR = {
 			AND = {
-				has_pop_culture = turkish
-				NOT = { country = { primary_culture = turkish } }
+				has_pop_culture = united_culture
+				NOT = { country = { primary_culture = united_culture } }
 				country = { has_global_flag = turkey_exists }
 			}
 			AND = {
-				has_pop_culture = greek
-				NOT = { country = { primary_culture = greek } }
+				has_pop_culture = united_culture
+				NOT = { country = { primary_culture = united_culture } }
 				country = { has_global_flag = greece_exists }
 			}
 			AND = {
-				has_pop_culture = bulgarian
-				NOT = { country = { primary_culture = bulgarian } }
+				has_pop_culture = united_culture
+				NOT = { country = { primary_culture = united_culture } }
 				country = { has_global_flag = bulgaria_exists }
 			}
 		}

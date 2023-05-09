@@ -599,7 +599,7 @@ help_ai_literacy = {
 		OR = {
 			has_country_flag = austria
 			NOT = {
-				primary_culture = south_german
+				primary_culture = united_culture
 			}
 		}
 	}
@@ -615,8 +615,8 @@ help_ai_admin = {
 		OR = {
 			has_country_flag = austria
 			NOT = {
-				primary_culture = mexican
-				primary_culture = south_german
+				primary_culture = united_culture
+				primary_culture = united_culture
 			}
 		}
 		NOT = { has_country_flag = south_italian }

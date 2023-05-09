@@ -1,8 +1,8 @@
 1836.1.2 = {
 	capital = 1948
-	primary_culture = fulbe
-	culture = hausa
-	culture = bedouin
+	primary_culture = united_culture
+	culture = united_culture
+	culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0

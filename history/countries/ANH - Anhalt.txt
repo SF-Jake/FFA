@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 555
-	primary_culture = north_german
+	primary_culture = united_culture
 	religion = protestant
 	government = absolute_monarchy
 	plurality = 25.0
@@ -88,7 +88,7 @@
 
 1836.1.1 = {
 	capital = 555
-	primary_culture = north_german
+	primary_culture = united_culture
 	religion = protestant
 	government = absolute_monarchy
 	plurality = 25.0

@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 1209
-	primary_culture = pashtun
+	primary_culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0
@@ -62,7 +62,7 @@
 
 1836.1.1 = {
 	capital = 1209
-	primary_culture = pashtun
+	primary_culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0

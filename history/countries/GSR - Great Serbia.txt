@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 794
-	primary_culture = serb
+	primary_culture = united_culture
 	religion = orthodox
 	government = absolute_monarchy
 	plurality = 25.0
@@ -61,7 +61,7 @@
 
 1836.1.1 = {
 	capital = 794
-	primary_culture = serb
+	primary_culture = united_culture
 	religion = orthodox
 	government = absolute_monarchy
 	plurality = 25.0

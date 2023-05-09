@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 1102
-	primary_culture = persian
-	culture = turkish
+	primary_culture = united_culture
+	culture = united_culture
 	religion = sunni
 	government = democracy
 	plurality = 25.0
@@ -86,8 +86,8 @@
 
 1836.1.1 = {
 	capital = 1102
-	primary_culture = azerbaijani
-	culture = turkish
+	primary_culture = united_culture
+	culture = united_culture
 	religion = sunni
 	government = democracy
 	plurality = 25.0

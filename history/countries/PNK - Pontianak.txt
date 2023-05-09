@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 1426
-	primary_culture = malay
-	culture = asian_minor
+	primary_culture = united_culture
+	culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0
@@ -54,8 +54,8 @@
 
 1836.1.1 = {
 	capital = 1426
-	primary_culture = malay
-	culture = asian_minor
+	primary_culture = united_culture
+	culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0

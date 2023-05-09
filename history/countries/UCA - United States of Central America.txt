@@ -6,7 +6,7 @@ govt_flag =
 
 1836.1.2 = {
 	capital = 2186
-	primary_culture = central_american
+	primary_culture = united_culture
 	religion = catholic
 	government = democracy
 	plurality = 25.0
@@ -84,7 +84,7 @@ govt_flag =
 
 1836.1.1 = {
 	capital = 2186
-	primary_culture = central_american
+	primary_culture = united_culture
 	religion = catholic
 	government = democracy
 	plurality = 25.0

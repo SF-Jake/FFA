@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 1438
-	primary_culture = malay
-	culture = moluccan
+	primary_culture = united_culture
+	culture = united_culture
 	religion = animist
 	government = absolute_monarchy
 	plurality = 0.0
@@ -58,8 +58,8 @@
 
 1836.1.1 = {
 	capital = 1438
-	primary_culture = malay
-	culture = moluccan
+	primary_culture = united_culture
+	culture = united_culture
 	religion = animist
 	government = absolute_monarchy
 	plurality = 0.0

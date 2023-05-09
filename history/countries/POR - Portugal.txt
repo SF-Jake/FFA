@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 521
-	primary_culture = portuguese
+	primary_culture = united_culture
 	religion = catholic
 	government = hms_government
 	plurality = 25.0
@@ -89,7 +89,7 @@
 
 1836.1.1 = {
 	capital = 521
-	primary_culture = portuguese
+	primary_culture = united_culture
 	religion = catholic
 	government = hms_government
 	plurality = 25.0

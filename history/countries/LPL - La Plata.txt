@@ -6,7 +6,7 @@ govt_flag =
 
 1836.1.2 = {
 	capital = 2348
-	primary_culture = platinean
+	primary_culture = united_culture
 	religion = catholic
 	government = presidential_dictatorship
 	plurality = 0.0
@@ -57,7 +57,7 @@ govt_flag =
 
 1836.1.1 = {
 	capital = 2348
-	primary_culture = platinean
+	primary_culture = united_culture
 	religion = catholic
 	government = presidential_dictatorship
 	plurality = 0.0

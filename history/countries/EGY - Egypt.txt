@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 1745
-	primary_culture = mashriqi
+	primary_culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0
@@ -76,8 +76,8 @@
 
 1836.1.1 = {
 	capital = 1745
-	primary_culture = misri
-	culture = mashriqi
+	primary_culture = united_culture
+	culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0

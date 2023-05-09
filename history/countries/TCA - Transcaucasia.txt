@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 1090
-	primary_culture = armenian
-	culture = russian
+	primary_culture = united_culture
+	culture = united_culture
 	religion = orthodox
 	government = colonial_company
 	plurality = 0.0
@@ -83,9 +83,9 @@
 
 1836.1.1 = {
 	capital = 1090
-	primary_culture = georgian
-	culture = armenian
-	culture = russian
+	primary_culture = united_culture
+	culture = united_culture
+	culture = united_culture
 	religion = orthodox
 	government = colonial_company
 	plurality = 0.0

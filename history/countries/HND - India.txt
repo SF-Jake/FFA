@@ -1,8 +1,8 @@
 1836.1.2 = {
 	capital = 1251
-	primary_culture = marathi
-	culture = avadhi
-	culture = telegu
+	primary_culture = united_culture
+	culture = united_culture
+	culture = united_culture
 	religion = hindu
 	government = colonial_company
 	plurality = 0.0

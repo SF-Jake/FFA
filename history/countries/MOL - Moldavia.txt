@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 670
-	primary_culture = romanian
+	primary_culture = united_culture
 	government = absolute_monarchy
 	plurality = 25.0
 	nationalvalue = nv_order
@@ -87,7 +87,7 @@
 
 1836.1.1 = {
 	capital = 670
-	primary_culture = romanian
+	primary_culture = united_culture
 	government = absolute_monarchy
 	plurality = 25.0
 	nationalvalue = nv_order

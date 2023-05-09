@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 1191
-	primary_culture = turkmen
+	primary_culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0
@@ -62,8 +62,8 @@
 
 1836.1.1 = {
 	capital = 1191
-	primary_culture = turkmen
-	culture = turkmen
+	primary_culture = united_culture
+	culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0

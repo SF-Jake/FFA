@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 1326
-	primary_culture = nepali
-	culture = tibetan
+	primary_culture = united_culture
+	culture = united_culture
 	religion = mahayana
 	government = absolute_monarchy
 	plurality = 0.0
@@ -58,8 +58,8 @@
 
 1836.1.1 = {
 	capital = 1326
-	primary_culture = nepali
-	culture = tibetan
+	primary_culture = united_culture
+	culture = united_culture
 	religion = mahayana
 	government = absolute_monarchy
 	plurality = 0.0

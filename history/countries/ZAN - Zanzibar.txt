@@ -55,7 +55,7 @@
 
 1836.1.1 = {
 	capital = 2048
-	primary_culture = swahili
+	primary_culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0

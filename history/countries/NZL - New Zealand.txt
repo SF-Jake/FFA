@@ -5,7 +5,7 @@ govt_flag =
 }
 1836.1.2 = {
 	capital = 2512
-	primary_culture = australian
+	primary_culture = united_culture
 	religion = protestant
 	government = colonial_company
 	plurality = 25
@@ -83,7 +83,7 @@ govt_flag =
 
 1836.1.1 = {
 	capital = 2512
-	primary_culture = australian
+	primary_culture = united_culture
 	religion = protestant
 	government = colonial_company
 	plurality = 25

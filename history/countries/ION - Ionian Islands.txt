@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 826
-	primary_culture = greek
+	primary_culture = united_culture
 	religion = orthodox
 	government = presidential_dictatorship
 	plurality = 25.0
@@ -76,7 +76,7 @@
 
 1836.1.1 = {
 	capital = 826
-	primary_culture = greek
+	primary_culture = united_culture
 	religion = orthodox
 	government = presidential_dictatorship
 	plurality = 25.0

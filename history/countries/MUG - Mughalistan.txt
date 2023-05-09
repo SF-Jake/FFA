@@ -1,7 +1,7 @@
 capital = 1236
 primary_culture = dravidian
 culture = indo-aryan
-culture = pashtun
+culture = united_culture
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

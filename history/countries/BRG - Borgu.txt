@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 1938
-	primary_culture = tiv
-	culture = hausa
+	primary_culture = united_culture
+	culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0
@@ -63,9 +63,9 @@
 1836.1.1 = {
 	capital = 1938
 	primary_culture = east_kwa
-	culture = fulbe
+	culture = united_culture
 	culture = gur
-	culture = hausa
+	culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0

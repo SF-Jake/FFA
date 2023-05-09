@@ -6,7 +6,7 @@ govt_flag =
 
 1836.1.2 = {
 	capital = 1612
-	primary_culture = manchu
+	primary_culture = united_culture
 	religion = mahayana
 	government = absolute_monarchy
 	plurality = 0.0
@@ -69,7 +69,7 @@ govt_flag =
 
 1836.1.1 = {
 	capital = 1612
-	primary_culture = manchu
+	primary_culture = united_culture
 	religion = mahayana
 	government = absolute_monarchy
 	plurality = 0.0
@@ -139,7 +139,7 @@ govt_flag =
 	literacy = 0.15
 	non_state_culture_literacy = 0.15
 	civilized = yes
-	culture = beifaren
+	culture = united_culture
 	prestige = 25
 	decision = abolish_imperial_exams
 	set_global_flag = opium_outlawed

@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 2313
-	primary_culture = south_andean
+	primary_culture = united_culture
 	religion = catholic
 	government = presidential_dictatorship
 	plurality = 25.0
@@ -78,8 +78,8 @@
 
 1836.1.1 = {
 	capital = 2313
-	primary_culture = south_andean
-	culture = south_andean
+	primary_culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = presidential_dictatorship
 	plurality = 25.0

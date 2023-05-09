@@ -1,11 +1,11 @@
 1836.1.2 = {
 	capital = 619
-	primary_culture = south_german
-	culture = hungarian
-	culture = slovak
-	culture = czech
-	culture = romanian
-	culture = croat
+	primary_culture = united_culture
+	culture = united_culture
+	culture = united_culture
+	culture = united_culture
+	culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = absolute_monarchy
 	plurality = 0.0
@@ -57,12 +57,12 @@
 
 1836.1.1 = {
 	capital = 619
-	primary_culture = south_german
-	culture = hungarian
-	culture = slovak
-	culture = czech
-	culture = romanian
-	culture = croat
+	primary_culture = united_culture
+	culture = united_culture
+	culture = united_culture
+	culture = united_culture
+	culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = absolute_monarchy
 	plurality = 0.0

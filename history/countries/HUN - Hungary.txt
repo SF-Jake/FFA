@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 641
-	primary_culture = hungarian
+	primary_culture = united_culture
 	religion = catholic
 	government = colonial_company
 	plurality = 25.0
@@ -79,7 +79,7 @@
 
 1836.1.1 = {
 	capital = 641
-	primary_culture = hungarian
+	primary_culture = united_culture
 	religion = catholic
 	government = colonial_company
 	plurality = 25.0

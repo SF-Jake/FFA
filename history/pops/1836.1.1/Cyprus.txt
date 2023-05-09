@@ -3,61 +3,61 @@
 #Nicosia (64000/16000 POPS)
 855 = {
 	aristocrats = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 275
 	}
 
 	bureaucrats = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 50
 	}
 
 	officers = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 2875
 	}
 
 	clergymen = {
-		culture = greek
+		culture = united_culture
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = greek
+		culture = united_culture
 		religion = orthodox
 		size = 750
 	}
 
 	farmers = {
-		culture = greek
+		culture = united_culture
 		religion = orthodox
 		size = 11150
 	}
@@ -65,49 +65,49 @@
 #Limassol (44000/11000 POPS)
 856 = {
 	aristocrats = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 1350
 	}
 
 	clergymen = {
-		culture = greek
+		culture = united_culture
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = greek
+		culture = united_culture
 		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = greek
+		culture = united_culture
 		religion = orthodox
 		size = 8525
 	}
@@ -115,49 +115,49 @@
 #Famagusta (44000/11000 POPS)
 857 = {
 	aristocrats = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = turkish
+		culture = united_culture
 		religion = sunni
 		size = 2500
 	}
 
 	clergymen = {
-		culture = greek
+		culture = united_culture
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = greek
+		culture = united_culture
 		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = greek
+		culture = united_culture
 		religion = orthodox
 		size = 7525
 	}

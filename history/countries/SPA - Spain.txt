@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 487
-	primary_culture = spanish
-	culture = catalan
+	primary_culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = hms_government
 	plurality = 25.0
@@ -90,9 +90,9 @@
 
 1836.1.1 = {
 	capital = 487
-	primary_culture = spanish
-	culture = catalan
-	culture = afro_caribbean
+	primary_culture = united_culture
+	culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = hms_government
 	plurality = 25.0

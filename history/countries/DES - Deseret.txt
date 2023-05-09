@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 97
-	primary_culture = yankee
-	culture = dixie
+	primary_culture = united_culture
+	culture = united_culture
 	religion = protestant
 	government = presidential_dictatorship
 	plurality = 0.2
@@ -52,8 +52,8 @@
 
 1836.1.1 = {
 	capital = 97
-	primary_culture = yankee
-	culture = dixie
+	primary_culture = united_culture
+	culture = united_culture
 	religion = protestant
 	government = presidential_dictatorship
 	plurality = 0.2

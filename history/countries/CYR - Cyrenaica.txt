@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 1735
-	primary_culture = bedouin
-	culture = berber
+	primary_culture = united_culture
+	culture = united_culture
 	religion = sunni
 	government = theocracy
 	plurality = 0.0
@@ -51,11 +51,11 @@
 
 1836.1.1 = {
 	capital = 1735
-	primary_culture = maghrebi
+	primary_culture = united_culture
 		culture = n_africanuin
-	culture = teda
-	culture = berber
-	culture = tuareg
+	culture = united_culture
+	culture = united_culture
+	culture = united_culture
 	religion = sunni
 	government = theocracy
 	plurality = 0.0

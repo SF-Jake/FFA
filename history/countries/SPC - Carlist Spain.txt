@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 487
-	primary_culture = spanish
-	culture = catalan
+	primary_culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = absolute_monarchy
 	plurality = 25.0
@@ -87,8 +87,8 @@
 
 1836.1.1 = {
 	capital = 487
-	primary_culture = spanish
-	culture = catalan
+	primary_culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = absolute_monarchy
 	plurality = 25.0

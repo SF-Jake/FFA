@@ -971,7 +971,7 @@ nationalist_rebels = {
 		modifier = {
 			factor = 0
 				OR = {
-					has_pop_culture = beifaren
+					has_pop_culture = united_culture
 				}
 				country = { civilized = no }
 		}
@@ -1230,7 +1230,7 @@ pan_nationalist_rebels = {
 
 		modifier = {
 			factor = 0
-			culture = north_italian
+			culture = united_culture
 		}
 
 		modifier = {
@@ -1816,7 +1816,7 @@ red_shirts = {
 		modifier = {
 			factor = 0
 			NOT = {
-				culture = north_italian
+				culture = united_culture
 			}
 		}
 		
@@ -2034,7 +2034,7 @@ german_revolutionaries = {
 			factor = 0
 			NOT = {
 				OR = {
-					culture = south_german
+					culture = united_culture
 					culture = north_german
 				}
 			}
@@ -2632,7 +2632,7 @@ sioux_nation = {
 		modifier = {
 			factor = 0
 			NOT = {
-				culture = dakota 
+				culture = united_culture 
 			}
 		}
 		modifier = {
@@ -2688,7 +2688,7 @@ sioux_nation = {
 		}
 		any_pop = {
 			limit = {
-				culture = dakota 
+				culture = united_culture 
 			}
 			militancy = 10
 		}
@@ -3291,8 +3291,8 @@ south_american_revolutionaries = {
 			factor = 0
 			NOT = {
 				OR = {
-					culture = brazilian
-					culture = afro_brazilian
+					culture = united_culture
+					culture = united_culture
 				}
 			}
 		}

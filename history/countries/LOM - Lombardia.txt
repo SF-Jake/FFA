@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 726
-	primary_culture = north_italian
+	primary_culture = united_culture
 	religion = catholic
 	government = absolute_monarchy
 	plurality = 0.0
@@ -51,7 +51,7 @@
 
 1836.1.1 = {
 	capital = 726
-	primary_culture = north_italian
+	primary_culture = united_culture
 	religion = catholic
 	government = absolute_monarchy
 	plurality = 0.0

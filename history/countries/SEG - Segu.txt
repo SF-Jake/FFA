@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 1800
 	primary_culture = western_nigritic
-	culture = fulbe
+	culture = united_culture
 	religion = animist
 	government = absolute_monarchy
 	plurality = 0.0

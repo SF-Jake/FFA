@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 2214
-	primary_culture = afro_caribbean
+	primary_culture = united_culture
 	religion = catholic
 	government = presidential_dictatorship
 	plurality = 25.1
@@ -73,8 +73,8 @@
 
 1836.1.1 = {
 	capital = 2214
-	primary_culture = afro_caribbean
-	culture = afro_caribeno
+	primary_culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = presidential_dictatorship
 	plurality = 25.1

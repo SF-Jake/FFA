@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 1851
 	primary_culture = cushitic
-	culture = amhara
+	culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0

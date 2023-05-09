@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 1235
-	primary_culture = nepali
+	primary_culture = united_culture
 	culture = indo-aryan
 	religion = hindu
 	government = absolute_monarchy
@@ -51,7 +51,7 @@
 
 1836.1.1 = {
 	capital = 1235
-	primary_culture = nepali
+	primary_culture = united_culture
 	culture = indo-aryan
 	religion = hindu
 	government = absolute_monarchy

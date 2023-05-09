@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 855
-	primary_culture = greek
-	culture = turkish
+	primary_culture = united_culture
+	culture = united_culture
 	religion = orthodox
 	government = democracy
 	plurality = 0.05
@@ -52,8 +52,8 @@
 
 1836.1.1 = {
 	capital = 855
-	primary_culture = greek
-	culture = turkish
+	primary_culture = united_culture
+	culture = united_culture
 	religion = orthodox
 	government = democracy
 	plurality = 0.05

@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 2105
-	primary_culture = boer
+	primary_culture = united_culture
 	religion = protestant
 	government = democracy
 	plurality = 25.0

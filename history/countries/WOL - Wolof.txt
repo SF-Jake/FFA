@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 1786
-	primary_culture = fulbe
+	primary_culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0

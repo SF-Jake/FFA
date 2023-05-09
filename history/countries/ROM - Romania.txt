@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 664
-	primary_culture = romanian
+	primary_culture = united_culture
 	religion = orthodox
 	government = hms_government
 	plurality = 0.08
@@ -52,7 +52,7 @@
 
 1836.1.1 = {
 	capital = 664
-	primary_culture = romanian
+	primary_culture = united_culture
 	religion = orthodox
 	government = hms_government
 	plurality = 0.08

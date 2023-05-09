@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 549
-	culture = north_german
+	culture = united_culture
 	religion = protestant
 	government = democracy
 	plurality = 0.15
@@ -51,8 +51,8 @@
 
 1836.1.1 = {
 	capital = 549
-	culture = north_german
-	culture = south_german
+	culture = united_culture
+	culture = united_culture
 	religion = protestant
 	government = democracy
 	plurality = 0.15

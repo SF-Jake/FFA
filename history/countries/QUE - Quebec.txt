@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 65
-	primary_culture = french_canadian
-	culture = anglo_canadian
+	primary_culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = hms_government
 	plurality = 0.2
@@ -52,8 +52,8 @@
 
 1836.1.1 = {
 	capital = 65
-	primary_culture = french_canadian
-	culture = anglo_canadian
+	primary_culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = hms_government
 	plurality = 0.2

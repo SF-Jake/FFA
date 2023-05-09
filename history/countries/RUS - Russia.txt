@@ -12,7 +12,7 @@ govt_flag =
 
 1836.1.2 = {
 	capital = 994
-	primary_culture = russian
+	primary_culture = united_culture
 	religion = orthodox
 	government = absolute_monarchy
 	plurality = 25
@@ -105,8 +105,8 @@ govt_flag =
 
 1836.1.1 = {
 	capital = 994
-	primary_culture = russian
-	culture = ukrainian
+	primary_culture = united_culture
+	culture = united_culture
 	religion = orthodox
 	government = absolute_monarchy
 	plurality = 25

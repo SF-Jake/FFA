@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 1859
-	primary_culture = amhara
+	primary_culture = united_culture
 	culture = cushitic
 	religion = coptic
 	government = absolute_monarchy
@@ -58,8 +58,8 @@
 
 1836.1.1 = {
 	capital = 1859
-	primary_culture = amhara
-	culture = oromo
+	primary_culture = united_culture
+	culture = united_culture
 	religion = coptic
 	government = absolute_monarchy
 	plurality = 0.0

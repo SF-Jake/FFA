@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 322
-	primary_culture = swedish
+	primary_culture = united_culture
 	religion = protestant
 	government = hms_government
 	plurality = 25.0
@@ -86,7 +86,7 @@
 
 1836.1.1 = {
 	capital = 322
-	primary_culture = swedish
+	primary_culture = united_culture
 	religion = protestant
 	government = hms_government
 	plurality = 25.0

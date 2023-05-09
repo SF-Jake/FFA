@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 1224
-	primary_culture = panjabi
-	culture = tibetan
+	primary_culture = united_culture
+	culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0
@@ -56,8 +56,8 @@
 
 1836.1.1 = {
 	capital = 1224
-	primary_culture = kashmiri
-	culture = tibetan
+	primary_culture = united_culture
+	culture = united_culture
 	religion = hindu
 	government = absolute_monarchy
 	plurality = 0.0

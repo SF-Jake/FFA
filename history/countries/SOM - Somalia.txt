@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 1868
-	primary_culture = somali
+	primary_culture = united_culture
 	culture = cushitic
 	religion = sunni
 	government = absolute_monarchy
@@ -52,9 +52,9 @@
 
 1836.1.1 = {
 	capital = 1868
-	primary_culture = somali
+	primary_culture = united_culture
 	culture = cushitic
-	culture = oromo
+	culture = united_culture
 	religion = sunni
 	government = absolute_monarchy
 	plurality = 0.0

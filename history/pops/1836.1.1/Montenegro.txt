@@ -3,43 +3,43 @@
 #Ulcinj (36000/9000 POPS) 
 800 = {
 	clergymen = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 7550
 	}
 
 	clergymen = {
-		culture = albanian
+		culture = united_culture
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = albanian
+		culture = united_culture
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = albanian
+		culture = united_culture
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = albanian
+		culture = united_culture
 		religion = sunni
 		size = 825
 	}
@@ -47,49 +47,49 @@
 #Niksic (52000/13000 POPS) 
 2569 = {
 	clergymen = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 11400
 	}
 
 	aristocrats = {
-		culture = bosniak
+		culture = united_culture
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = bosniak
+		culture = united_culture
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = bosniak
+		culture = united_culture
 		religion = sunni
 		size = 75
 	}
 
 	soldiers = {
-		culture = bosniak
+		culture = united_culture
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = united_culture
 		religion = sunni
 		size = 5825
 	}
@@ -98,37 +98,37 @@
 #Cetinje (104000/26000 POPS) 
 2583 = {
 	bureaucrats = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 25
 	}
 
 	officers = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 25
 	}
 
 	clergymen = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 275
 	}
 
 	artisans = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 1300
 	}
 
 	soldiers = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 23375
 	}
@@ -138,49 +138,49 @@
 #Pljevlja (52000/13000 POPS) #now part of Montenegro
 2577 = {
 	clergymen = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 8175
 	}
 
 	aristocrats = {
-		culture = bosniak
+		culture = united_culture
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = bosniak
+		culture = united_culture
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bosniak
+		culture = united_culture
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = bosniak
+		culture = united_culture
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = united_culture
 		religion = sunni
 		size = 3650
 	}
@@ -190,49 +190,49 @@
 #Kotor (64000/16000 POPS) 
 2582 = {
 	clergymen = {
-		culture = croat
+		culture = united_culture
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = croat
+		culture = united_culture
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = croat
+		culture = united_culture
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = croat
+		culture = united_culture
 		religion = catholic
 		size = 4650
 	}
 
 	clergymen = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 550
 	}
 
 	soldiers = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 125
 	}
 
 	farmers = {
-		culture = serb
+		culture = united_culture
 		religion = orthodox
 		size = 10225
 	}

@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 1465
-	primary_culture = manchu
+	primary_culture = united_culture
 	religion = mahayana
 	government = absolute_monarchy
 	plurality = 0.0
@@ -62,7 +62,7 @@
 
 1836.1.1 = {
 	capital = 1465
-	primary_culture = manchu
+	primary_culture = united_culture
 	religion = mahayana
 	government = absolute_monarchy
 	plurality = 0.0
@@ -128,7 +128,7 @@
 	literacy = 0.2
 	non_state_culture_literacy = 0.2
 	civilized = yes
-	culture = beifaren
+	culture = united_culture
 	set_country_flag = military_supplies_idea
 	set_country_flag = mining_idea
 	set_country_flag = domestic_idea

@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 1426
-	primary_culture = malay
+	primary_culture = united_culture
 	religion = sunni
 	government = democracy
 	plurality = 0.0
@@ -66,7 +66,7 @@
 
 1836.1.1 = {
 	capital = 1426
-	primary_culture = malay
+	primary_culture = united_culture
 	religion = mahayana
 	government = democracy
 	plurality = 0.0

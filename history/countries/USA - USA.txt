@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 220
-	primary_culture = yankee
-	culture = dixie
+	primary_culture = united_culture
+	culture = united_culture
 	religion = protestant
 	government = democracy
 	plurality = 25.0
@@ -102,8 +102,8 @@
 
 1836.1.1 = {
 	capital = 220
-	primary_culture = yankee
-	culture = dixie
+	primary_culture = united_culture
+	culture = united_culture
 	religion = protestant
 	government = democracy
 	plurality = 25.0
@@ -238,7 +238,7 @@ decision = corwin_amendment
 	plurality = 100
 	literacy = 0.95
 	non_state_culture_literacy = 0.2
-	culture = afro_american
+	culture = united_culture
 	decision = usa_1913_setup
 	decision = enact_the_homestead_act
 	decision = build_panama_canal_2

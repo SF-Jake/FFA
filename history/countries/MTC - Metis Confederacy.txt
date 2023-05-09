@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 37
-	primary_culture = metis
+	primary_culture = united_culture
 	religion = catholic
 	government = democracy
 	plurality = 5.0
@@ -52,7 +52,7 @@
 
 1836.1.1 = {
 	capital = 37
-	primary_culture = metis
+	primary_culture = united_culture
 	religion = catholic
 	government = democracy
 	plurality = 5.0

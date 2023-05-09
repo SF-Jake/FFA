@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 2360
-	primary_culture = platinean
+	primary_culture = united_culture
 	religion = catholic
 	government = presidential_dictatorship
 	plurality = 20.0
@@ -79,7 +79,7 @@
 
 1836.1.1 = {
 	capital = 2360
-	primary_culture = platinean
+	primary_culture = united_culture
 	religion = catholic
 	government = presidential_dictatorship
 	plurality = 20.0

@@ -58,7 +58,7 @@ country_migration_target =
 		has_country_flag = uruguay
 		THIS = {
 			OR = {
-				has_pop_culture = spanish
+				has_pop_culture = united_culture
 				is_culture_group = italian
 			}
 		}
@@ -68,16 +68,16 @@ country_migration_target =
 		has_global_flag = population_exchange_in_progress
 		OR = {
 			AND = {
-				NOT = { primary_culture = bulgarian }
-				THIS = { has_pop_culture = bulgarian }
+				NOT = { primary_culture = united_culture }
+				THIS = { has_pop_culture = united_culture }
 			}
 			AND = {
-				NOT = { primary_culture = greek }
-				THIS = { has_pop_culture = greek }
+				NOT = { primary_culture = united_culture }
+				THIS = { has_pop_culture = united_culture }
 			}
 			AND = {
-				NOT = { primary_culture = turkish }
-				THIS = { has_pop_culture = turkish }
+				NOT = { primary_culture = united_culture }
+				THIS = { has_pop_culture = united_culture }
 			}
 		}
 	}
@@ -86,39 +86,39 @@ country_migration_target =
 		has_global_flag = population_exchange_in_progress
 		OR = {
 			AND = {
-				primary_culture = bulgarian
-				THIS = { has_pop_culture = bulgarian }
+				primary_culture = united_culture
+				THIS = { has_pop_culture = united_culture }
 			}
 			AND = {
-				primary_culture = greek
-				THIS = { has_pop_culture = greek }
+				primary_culture = united_culture
+				THIS = { has_pop_culture = united_culture }
 			}
 			AND = {
-				primary_culture = turkish
-				THIS = { has_pop_culture = turkish }
+				primary_culture = united_culture
+				THIS = { has_pop_culture = united_culture }
 			}
 		}
 	}
 	modifier = {
 		factor = 10
-		primary_culture = ashkenazi
+		primary_culture = united_culture
 		THIS = {
 			OR = {
-				has_pop_culture = ashkenazi
-				has_pop_culture = sephardic
+				has_pop_culture = united_culture
+				has_pop_culture = united_culture
 			}
 		}
 	}
 	modifier = {
 		factor = 10
-		primary_culture = boer
-		THIS = { has_pop_culture = boer }
+		primary_culture = united_culture
+		THIS = { has_pop_culture = united_culture }
 	}
 	modifier = {
 		factor = 0
 		OR = {
 			AND = {
-				NOT = { primary_culture = spanish }
+				NOT = { primary_culture = united_culture }
 				THIS = { country = { has_country_flag = spanish_vassal } }
 			}
 			AND = {
@@ -131,7 +131,7 @@ country_migration_target =
 		factor = 10
 		OR = {
 			AND = {
-				primary_culture = spanish
+				primary_culture = united_culture
 				THIS = { country = { has_country_flag = spanish_vassal } }
 			}
 			AND = {
@@ -144,7 +144,7 @@ country_migration_target =
 		factor = 0
 		OR = {
 			AND = {
-				NOT = { primary_culture = portuguese }
+				NOT = { primary_culture = united_culture }
 				THIS = { country = { has_country_flag = portuguese_vassal } }
 			}
 			AND = {
@@ -157,7 +157,7 @@ country_migration_target =
 		factor = 10
 		OR = {
 			AND = {
-				primary_culture = portuguese
+				primary_culture = united_culture
 				THIS = { country = { has_country_flag = portuguese_vassal } }
 			}
 			AND = {
@@ -168,41 +168,41 @@ country_migration_target =
 	}
 	modifier = {
 		factor = 10
-		primary_culture = turkish
+		primary_culture = united_culture
 		has_global_flag = circassian_genocide_in_progress
-		THIS = { has_pop_culture = north_caucasian }
+		THIS = { has_pop_culture = united_culture }
 	}
 	modifier = {
 		factor = 10
 		OR = {
-			primary_culture = australian
-			primary_culture = anglo_canadian
-			primary_culture = british
+			primary_culture = united_culture
+			primary_culture = united_culture
+			primary_culture = united_culture
 		}
 		NOT = { has_country_flag = african_union_formation }
 		NOT = { continent = europe }
-		THIS = { has_pop_culture = british }
+		THIS = { has_pop_culture = united_culture }
 	}	
 	modifier = {
 		factor = 0
 		NOT = {
 			OR = {
-				primary_culture = australian
-				primary_culture = anglo_canadian
-				primary_culture = british
+				primary_culture = united_culture
+				primary_culture = united_culture
+				primary_culture = united_culture
 			}
 		}
-		THIS = { has_pop_culture = british }
+		THIS = { has_pop_culture = united_culture }
 	}
 	modifier = {
 		factor = 10
 		is_culture_group = american_cultures
-		THIS = { has_pop_culture = irish }
+		THIS = { has_pop_culture = united_culture }
 	}
 	modifier = {
 		factor = 0.01
 		NOT = { is_culture_group = american_cultures }
-		THIS = { has_pop_culture = irish }
+		THIS = { has_pop_culture = united_culture }
 	}
 	modifier = {
 		factor = 0.9
@@ -222,46 +222,46 @@ country_migration_target =
 		}
 		OR = {
 			AND = {
-				NOT = { primary_culture = ashkenazi }
-				NOT = { primary_culture = sephardic }
+				NOT = { primary_culture = united_culture }
+				NOT = { primary_culture = united_culture }
 				NOT = { has_country_flag = african_union_formation }
 			}
 			AND = {
-				THIS = { NOT = { has_pop_culture = ashkenazi } }
-				THIS = { NOT = { has_pop_culture = sephardic } }
+				THIS = { NOT = { has_pop_culture = united_culture } }
+				THIS = { NOT = { has_pop_culture = united_culture } }
 			}
 		}
 		OR = {
-			NOT = { primary_culture = boer }
-			THIS = { NOT = { has_pop_culture = boer } }
+			NOT = { primary_culture = united_culture }
+			THIS = { NOT = { has_pop_culture = united_culture } }
 		}
 		OR = {
-			NOT = { primary_culture = turkish }
-			THIS = { NOT = { has_pop_culture = north_caucasian } }
+			NOT = { primary_culture = united_culture }
+			THIS = { NOT = { has_pop_culture = united_culture } }
 		}
 		OR = {
-			NOT = { primary_culture = british }
-			THIS = { NOT = { has_pop_culture = british } }
+			NOT = { primary_culture = united_culture }
+			THIS = { NOT = { has_pop_culture = united_culture } }
 		}
 		OR = {
-			NOT = { primary_culture = turkish }
-			THIS = { NOT = { has_pop_culture = turkish } }
+			NOT = { primary_culture = united_culture }
+			THIS = { NOT = { has_pop_culture = united_culture } }
 		}
 		OR = {
-			NOT = { primary_culture = bulgarian }
-			THIS = { NOT = { has_pop_culture = bulgarian } }
+			NOT = { primary_culture = united_culture }
+			THIS = { NOT = { has_pop_culture = united_culture } }
 		}
 		OR = {
-			NOT = { primary_culture = greek }
-			THIS = { NOT = { has_pop_culture = greek } }
+			NOT = { primary_culture = united_culture }
+			THIS = { NOT = { has_pop_culture = united_culture } }
 		}
 		OR = {
-			NOT = { primary_culture = british }
-			THIS = { NOT = { has_pop_culture = british } }
+			NOT = { primary_culture = united_culture }
+			THIS = { NOT = { has_pop_culture = united_culture } }
 		}
 		OR = {
-			NOT = { primary_culture = portuguese }
-			THIS = { NOT = { has_pop_culture = brazilian } }
+			NOT = { primary_culture = united_culture }
+			THIS = { NOT = { has_pop_culture = united_culture } }
 		}
 	}
 	modifier = {
@@ -455,7 +455,7 @@ migration_target =
 				state_id = 893
 			}
 		}
-		THIS = { has_pop_culture = north_caucasian }
+		THIS = { has_pop_culture = united_culture }
 		country = { has_global_flag = circassian_genocide_in_progress }
 	}
 	modifier = {

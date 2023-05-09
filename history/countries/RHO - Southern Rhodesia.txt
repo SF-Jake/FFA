@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 2068
-	primary_culture = british
-	culture = boer
+	primary_culture = united_culture
+	culture = united_culture
 	religion = protestant
 	government = hms_government
 	plurality = 0.6
@@ -52,8 +52,8 @@
 
 1836.1.1 = {
 	capital = 2068
-	primary_culture = british
-	culture = boer
+	primary_culture = united_culture
+	culture = united_culture
 	religion = protestant
 	government = hms_government
 	plurality = 0.6

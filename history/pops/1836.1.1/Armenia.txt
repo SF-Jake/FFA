@@ -3,121 +3,121 @@
 #Erivan (128000/32000 POPS)
 1098 = {
 	bureaucrats = {
-		culture = russian
+		culture = united_culture
 		religion = orthodox
 		size = 50
 	}
 
 	clergymen = {
-		culture = russian
+		culture = united_culture
 		religion = orthodox
 		size = 10
 	}
 
 	artisans = {
-		culture = russian
+		culture = united_culture
 		religion = orthodox
 		size = 15
 	}
 
 	soldiers = {
-		culture = russian
+		culture = united_culture
 		religion = orthodox
 		size = 75
 	}
 
 	aristocrats = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 175
 	}
 
 	bureaucrats = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 25
 	}
 
 	officers = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 50
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 600
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 125
 	}
 
 	farmers = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 10850
 	}
 
 	aristocrats = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = sunni
 		size = 550
 	}
 
 	soldiers = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = sunni
 		size = 10050
 	}
 
 	aristocrats = {
-		culture = kurdish
+		culture = united_culture
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = kurdish
+		culture = united_culture
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = kurdish
+		culture = united_culture
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = united_culture
 		religion = sunni
 		size = 1850
 	}
@@ -125,61 +125,61 @@
 #Gyumri (68000/17000 POPS)
 1099 = {
 	aristocrats = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 300
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 175
 	}
 
 	artisans = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 800
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 175
 	}
 
 	farmers = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 14750
 	}
 
 	aristocrats = {
-		culture = georgian
+		culture = united_culture
 		religion = orthodox
 		size = 10
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = united_culture
 		religion = orthodox
 		size = 15
 	}
 
 	artisans = {
-		culture = georgian
+		culture = united_culture
 		religion = orthodox
 		size = 40
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = united_culture
 		religion = orthodox
 		size = 10
 	}
 
 	farmers = {
-		culture = georgian
+		culture = united_culture
 		religion = orthodox
 		size = 925
 	}
@@ -187,61 +187,61 @@
 #Kapan (44000/11000 POPS)
 1100 = {
 	aristocrats = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 125
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 400
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 75
 	}
 
 	farmers = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 7325
 	}
 
 	aristocrats = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = sunni
 		size = 2775
 	}
@@ -249,61 +249,61 @@
 #Nakhichevan (60000/15000 POPS) #now part of Azerbaijan 
 1101 = {
 	aristocrats = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 125
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 175
 	}
 
 	artisans = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 450
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = armenian
+		culture = united_culture
 		religion = orthodox
 		size = 8250
 	}
 
 	aristocrats = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = shiite
 		size = 100
 	}
 
 	clergymen = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = shiite
 		size = 75
 	}
 
 	artisans = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = shiite
 		size = 300
 	}
 
 	soldiers = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = shiite
 		size = 50
 	}
 
 	farmers = {
-		culture = azerbaijani
+		culture = united_culture
 		religion = shiite
 		size = 4500
 	}

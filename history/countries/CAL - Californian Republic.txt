@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 84 # Sonoma
-	primary_culture = yankee
-	culture = dixie
+	primary_culture = united_culture
+	culture = united_culture
 	religion = protestant
 	government = democracy
 	plurality = 0.5
@@ -52,8 +52,8 @@
 
 1836.1.1 = {
 	capital = 84 # Sonoma
-	primary_culture = yankee
-	culture = dixie
+	primary_culture = united_culture
+	culture = united_culture
 	religion = protestant
 	government = democracy
 	plurality = 0.5

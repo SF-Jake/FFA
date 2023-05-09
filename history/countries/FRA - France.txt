@@ -6,8 +6,8 @@ govt_flag =
 
 1836.1.2 = {
 	capital = 425
-	primary_culture = french
-	culture = french_canadian
+	primary_culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = hms_government
 	plurality = 25
@@ -109,8 +109,8 @@ govt_flag =
 
 1836.1.1 = {
 	capital = 425
-	primary_culture = french
-	culture = french_canadian
+	primary_culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = hms_government
 	plurality = 25

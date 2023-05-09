@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 1053
-	primary_culture = north_caucasian
+	primary_culture = united_culture
 	religion = sunni
 	government = theocracy
 	plurality = 0.0
@@ -77,7 +77,7 @@
 
 1836.1.1 = {
 	capital = 1053
-	primary_culture = north_caucasian
+	primary_culture = united_culture
 	religion = sunni
 	government = theocracy
 	plurality = 0.0

@@ -6,8 +6,8 @@ govt_flag =
 
 1836.1.2 = {
 	capital = 2087
-	primary_culture = british
-	culture = boer
+	primary_culture = united_culture
+	culture = united_culture
 	religion = protestant
 	government = colonial_company
 	plurality = 25
@@ -86,8 +86,8 @@ govt_flag =
 
 1836.1.1 = {
 	capital = 2087
-	primary_culture = british
-	culture = boer
+	primary_culture = united_culture
+	culture = united_culture
 	religion = protestant
 	government = colonial_company
 	plurality = 25

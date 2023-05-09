@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 1230
-	primary_culture = panjabi
-	culture = pashtun
+	primary_culture = united_culture
+	culture = united_culture
 	religion = sunni
 	government = democracy
 	plurality = 0.0
@@ -61,11 +61,11 @@
 
 1836.1.1 = {
 	capital = 1230
-	primary_culture = panjabi
-	culture = baluchi
-	culture = pashtun
-	culture = sindi
-	culture = kashmiri
+	primary_culture = united_culture
+	culture = united_culture
+	culture = united_culture
+	culture = united_culture
+	culture = united_culture
 	religion = sunni
 	government = democracy
 	plurality = 0.0

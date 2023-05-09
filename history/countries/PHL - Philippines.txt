@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 1455
-	primary_culture = filipino
+	primary_culture = united_culture
 	religion = catholic
 	government = democracy
 	plurality = 25.0
@@ -85,7 +85,7 @@
 
 1836.1.1 = {
 	capital = 1455
-	primary_culture = filipino
+	primary_culture = united_culture
 	religion = catholic
 	government = democracy
 	plurality = 25.0

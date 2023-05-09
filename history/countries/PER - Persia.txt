@@ -1,6 +1,6 @@
 1836.1.2 = {
 	capital = 1121
-	primary_culture = persian
+	primary_culture = united_culture
 	religion = shiite
 	government = absolute_monarchy
 	plurality = 0.0
@@ -73,8 +73,8 @@
 
 1836.1.1 = {
 	capital = 1121
-	primary_culture = persian
-	culture = azerbaijani
+	primary_culture = united_culture
+	culture = united_culture
 	religion = shiite
 	government = absolute_monarchy
 	plurality = 0.0

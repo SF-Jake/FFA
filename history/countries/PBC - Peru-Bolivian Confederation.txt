@@ -6,7 +6,7 @@ govt_flag =
 
 1836.1.2 = {
 	capital = 2310
-	primary_culture = south_andean
+	primary_culture = united_culture
 	religion = catholic
 	government = presidential_dictatorship
 	plurality = 25.0
@@ -85,7 +85,7 @@ govt_flag =
 
 1836.1.1 = {
 	capital = 2310
-	primary_culture = south_andean
+	primary_culture = united_culture
 	religion = catholic
 	government = presidential_dictatorship
 	plurality = 25.0

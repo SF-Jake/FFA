@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 2432
-	primary_culture = brazilian
-	culture = afro_brazilian
+	primary_culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = democracy
 	plurality = 0.0
@@ -53,8 +53,8 @@
 
 1836.1.1 = {
 	capital = 2432
-	primary_culture = brazilian
-	culture = afro_brazilian
+	primary_culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = democracy
 	plurality = 0.0

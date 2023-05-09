@@ -1,7 +1,7 @@
 1836.1.2 = {
 	capital = 706
-	primary_culture = polish
-	culture = ashkenazi
+	primary_culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = democracy
 	plurality = 0.2
@@ -52,8 +52,8 @@
 
 1836.1.1 = {
 	capital = 706
-	primary_culture = polish
-	culture = ashkenazi
+	primary_culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = democracy
 	plurality = 0.2

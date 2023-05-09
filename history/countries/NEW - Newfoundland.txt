@@ -1,8 +1,8 @@
 1836.1.2 = {
 	capital = 74
-	primary_culture = anglo_canadian
-	culture = french_canadian
-	culture = british
+	primary_culture = united_culture
+	culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = democracy
 	plurality = 0.2
@@ -53,9 +53,9 @@
 
 1836.1.1 = {
 	capital = 74
-	primary_culture = anglo_canadian
-	culture = french_canadian
-	culture = british
+	primary_culture = united_culture
+	culture = united_culture
+	culture = united_culture
 	religion = catholic
 	government = democracy
 	plurality = 0.2
