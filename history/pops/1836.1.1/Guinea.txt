@@ -20,7 +20,7 @@
 		size = 950
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 250
@@ -72,7 +72,7 @@
 		size = 1050
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 275
@@ -102,7 +102,7 @@
 		size = 3200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 650
@@ -140,7 +140,7 @@
 		size = 775
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 200
@@ -176,7 +176,7 @@
 		size = 1100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 200
@@ -206,7 +206,7 @@
 		size = 300
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 50
@@ -246,7 +246,7 @@
 		size = 400
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 100
@@ -276,7 +276,7 @@
 		size = 1250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 250
@@ -306,7 +306,7 @@
 		size = 300
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 75
@@ -345,7 +345,7 @@
 		size = 1650
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 425
@@ -375,7 +375,7 @@
 		size = 250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 50

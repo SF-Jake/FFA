@@ -14,7 +14,7 @@
 		size = 1500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 400
@@ -56,7 +56,7 @@
 		size = 6725
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 100
@@ -92,7 +92,7 @@
 		size = 1500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = orthodox
 		size = 150
@@ -110,7 +110,7 @@
 		size = 2875
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = jewish
 		size = 50
@@ -130,7 +130,7 @@
 		size = 3350
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 1150
@@ -160,7 +160,7 @@
 		size = 600
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 100
@@ -178,7 +178,7 @@
 		size = 1100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = jewish
 		size = 50
@@ -208,7 +208,7 @@
 		size = 100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = orthodox
 		size = 50
@@ -238,7 +238,7 @@
 		size = 400
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 75
@@ -264,7 +264,7 @@
 		size = 650
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 250
@@ -294,7 +294,7 @@
 		size = 2200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 50
@@ -312,7 +312,7 @@
 		size = 400
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = jewish
 		size = 25
@@ -342,7 +342,7 @@
 		size = 75
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = orthodox
 		size = 50
@@ -368,7 +368,7 @@
 		size = 250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 250
@@ -398,7 +398,7 @@
 		size = 750
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 50
@@ -416,7 +416,7 @@
 		size = 200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = jewish
 		size = 25
@@ -442,7 +442,7 @@
 		size = 300
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 275
@@ -472,7 +472,7 @@
 		size = 700
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 50
@@ -496,7 +496,7 @@
 		size = 250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = jewish
 		size = 25
@@ -522,7 +522,7 @@
 		size = 150
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 200
@@ -552,7 +552,7 @@
 		size = 400
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 25
@@ -570,7 +570,7 @@
 		size = 200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = jewish
 		size = 25

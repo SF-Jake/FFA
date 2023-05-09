@@ -32,7 +32,7 @@
 		size = 1150
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 1100
@@ -93,7 +93,7 @@
 		size = 10
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 5
@@ -135,7 +135,7 @@
 		size = 150
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 25
@@ -168,7 +168,7 @@
 		size = 25
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 5
@@ -200,7 +200,7 @@
 		size = 35
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 10
@@ -233,7 +233,7 @@
 		size = 325
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 75
@@ -265,7 +265,7 @@
 		size = 50
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 15
@@ -299,7 +299,7 @@
 		size = 75
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 15
@@ -331,7 +331,7 @@
 		size = 12
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 5
@@ -363,7 +363,7 @@
 		size = 5
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 2
@@ -395,7 +395,7 @@
 		size = 25
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 5
@@ -429,7 +429,7 @@
 		size = 225
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 50
@@ -461,7 +461,7 @@
 		size = 60
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 15
@@ -493,7 +493,7 @@
 		size = 75
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 15
@@ -547,7 +547,7 @@
 		size = 35
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 10

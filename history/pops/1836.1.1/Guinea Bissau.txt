@@ -26,7 +26,7 @@
 		size = 25
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 20
@@ -44,7 +44,7 @@
 		size = 375
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 75
@@ -83,7 +83,7 @@
 		size = 1100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 200

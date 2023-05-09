@@ -32,7 +32,7 @@
 		size = 4050
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = hindu
 		size = 7000
@@ -62,7 +62,7 @@
 		size = 475
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = gelugpa
 		size = 100
@@ -92,7 +92,7 @@
 		size = 1050
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 200
@@ -124,7 +124,7 @@
 		size = 2300
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = hindu
 		size = 1100
@@ -154,7 +154,7 @@
 		size = 1850
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = gelugpa
 		size = 350
@@ -184,7 +184,7 @@
 		size = 950
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 200

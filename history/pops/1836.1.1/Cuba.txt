@@ -26,7 +26,7 @@
 		size = 4325
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 200
@@ -62,7 +62,7 @@
 		size = 4000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 1100
@@ -80,7 +80,7 @@
 		size = 6000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 500
@@ -118,7 +118,7 @@
 		size = 1200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 250
@@ -136,7 +136,7 @@
 		size = 2000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 150
@@ -174,7 +174,7 @@
 		size = 3500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 150
@@ -192,7 +192,7 @@
 		size = 1500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 300
@@ -230,7 +230,7 @@
 		size = 3500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 150
@@ -248,7 +248,7 @@
 		size = 1500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 200

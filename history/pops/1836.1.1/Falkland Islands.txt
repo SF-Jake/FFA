@@ -2,7 +2,7 @@
 #Ruled by Britain 1836
 #Falkland Islands (300/75 POPS)
 2131 = {
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 25

@@ -32,7 +32,7 @@
 		size = 3200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 2000
@@ -82,7 +82,7 @@
 		size = 3800
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 2000
@@ -132,7 +132,7 @@
 		size = 1200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 1100
@@ -182,7 +182,7 @@
 		size = 3250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 700
@@ -234,7 +234,7 @@
 		size = 700
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 425

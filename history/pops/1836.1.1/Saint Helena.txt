@@ -14,7 +14,7 @@
 		size = 25
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 20
@@ -34,7 +34,7 @@
 }
 #Ascension (140/35 POPS)
 2130 = {
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = protestant
 		size = 10

@@ -32,7 +32,7 @@
 		size = 4500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = gelugpa
 		size = 900
@@ -62,7 +62,7 @@
 		size = 400
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 100
@@ -94,7 +94,7 @@
 		size = 2650
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = gelugpa
 		size = 550
@@ -126,7 +126,7 @@
 		size = 2050
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = gelugpa
 		size = 425
@@ -156,7 +156,7 @@
 		size = 125
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 25
@@ -188,7 +188,7 @@
 		size = 1750
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = gelugpa
 		size = 350
@@ -221,7 +221,7 @@
 		size = 875
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = gelugpa
 		size = 175
@@ -254,7 +254,7 @@
 		size = 1500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = gelugpa
 		size = 375
@@ -286,7 +286,7 @@
 		size = 1050
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = gelugpa
 		size = 225
@@ -318,7 +318,7 @@
 		size = 900
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = gelugpa
 		size = 175
@@ -348,7 +348,7 @@
 		size = 600
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 125
@@ -380,7 +380,7 @@
 		size = 400
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = gelugpa
 		size = 75

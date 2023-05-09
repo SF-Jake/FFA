@@ -20,7 +20,7 @@
 		size = 1200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 250
@@ -50,7 +50,7 @@
 		size = 1100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 150
@@ -74,7 +74,7 @@
 		size = 2350
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 4000
@@ -106,7 +106,7 @@
 		size = 1350
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 300
@@ -136,7 +136,7 @@
 		size = 200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 50
@@ -162,7 +162,7 @@
 		size = 2400
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 500
@@ -192,7 +192,7 @@
 		size = 850
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 150
@@ -228,7 +228,7 @@
 		size = 4000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 4000
@@ -260,7 +260,7 @@
 		size = 1600
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 350
@@ -290,7 +290,7 @@
 		size = 2250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 4000
@@ -325,7 +325,7 @@
 		size = 2400
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 4000
@@ -355,7 +355,7 @@
 		size = 250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 50
@@ -385,7 +385,7 @@
 		size = 350
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 75
@@ -429,7 +429,7 @@
 		size = 5500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 4000
@@ -459,7 +459,7 @@
 		size = 250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 50
@@ -491,7 +491,7 @@
 		size = 1500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 1100
@@ -523,7 +523,7 @@
 		size = 3000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 1100
@@ -570,7 +570,7 @@
 		size = 4250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 850
@@ -612,7 +612,7 @@
 		size = 1100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 225
@@ -644,7 +644,7 @@
 		size = 2500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 500
@@ -674,7 +674,7 @@
 		size = 550
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 150
@@ -698,7 +698,7 @@
 		size = 350
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 100
@@ -733,7 +733,7 @@
 		size = 250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 1100
@@ -763,7 +763,7 @@
 		size = 3000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 500
@@ -787,7 +787,7 @@
 		size = 800
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 200
@@ -819,7 +819,7 @@
 		size = 2500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 550
@@ -851,7 +851,7 @@
 		size = 2000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 400
@@ -881,7 +881,7 @@
 		size = 1200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 250
@@ -917,7 +917,7 @@
 		size = 100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 4000
@@ -952,7 +952,7 @@
 		size = 1100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 300
@@ -982,7 +982,7 @@
 		size = 1375
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 250
@@ -1012,7 +1012,7 @@
 		size = 100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 150
@@ -1050,7 +1050,7 @@
 		size = 1100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 400
@@ -1080,7 +1080,7 @@
 		size = 1250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 200
@@ -1110,7 +1110,7 @@
 		size = 2000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 300
@@ -1151,7 +1151,7 @@
 		size = 2750
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = sunni
 		size = 150
@@ -1187,7 +1187,7 @@
 		size = 6250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = theravada
 		size = 250

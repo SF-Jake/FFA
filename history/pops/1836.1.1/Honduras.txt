@@ -37,7 +37,7 @@
 		militancy = 9
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 450
@@ -74,7 +74,7 @@
 		militancy = 9
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 225
@@ -111,7 +111,7 @@
 		militancy = 9
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 175
@@ -148,7 +148,7 @@
 		militancy = 9
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = catholic
 		size = 25

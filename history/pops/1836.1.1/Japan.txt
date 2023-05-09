@@ -32,7 +32,7 @@
 		size = 7550
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1275
@@ -62,7 +62,7 @@
 		size = 2450
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 425
@@ -94,7 +94,7 @@
 		size = 4800
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 975
@@ -124,7 +124,7 @@
 		size = 1500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 300
@@ -156,7 +156,7 @@
 		size = 5100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1025
@@ -186,7 +186,7 @@
 		size = 1300
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 275
@@ -218,7 +218,7 @@
 		size = 5350
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1075
@@ -248,7 +248,7 @@
 		size = 1500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 300
@@ -288,7 +288,7 @@
 		size = 500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 100
@@ -312,7 +312,7 @@
 		size = 500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 100
@@ -342,7 +342,7 @@
 		size = 1500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 250
@@ -368,7 +368,7 @@
 		size = 250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 50
@@ -392,7 +392,7 @@
 		size = 250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 50
@@ -422,7 +422,7 @@
 		size = 2000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 350
@@ -448,7 +448,7 @@
 		size = 400
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 75
@@ -472,7 +472,7 @@
 		size = 400
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 75
@@ -502,7 +502,7 @@
 		size = 3000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = animist
 		size = 650
@@ -548,7 +548,7 @@
 		size = 9350
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1875
@@ -578,7 +578,7 @@
 		size = 3100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 625
@@ -610,7 +610,7 @@
 		size = 3300
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 675
@@ -640,7 +640,7 @@
 		size = 1500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 300
@@ -672,7 +672,7 @@
 		size = 1250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 250
@@ -702,7 +702,7 @@
 		size = 750
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 150
@@ -734,7 +734,7 @@
 		size = 3050
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 625
@@ -764,7 +764,7 @@
 		size = 1350
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 275
@@ -882,7 +882,7 @@
 		size = 3000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 3075
@@ -924,7 +924,7 @@
 		size = 7000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 700
@@ -956,7 +956,7 @@
 		size = 7950
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1600
@@ -986,7 +986,7 @@
 		size = 1900
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 400
@@ -1018,7 +1018,7 @@
 		size = 9850
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1125
@@ -1048,7 +1048,7 @@
 		size = 2650
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 300
@@ -1086,7 +1086,7 @@
 		size = 1700
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 2350
@@ -1116,7 +1116,7 @@
 		size = 2750
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 550
@@ -1148,7 +1148,7 @@
 		size = 5850
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1175
@@ -1178,7 +1178,7 @@
 		size = 1500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 300
@@ -1236,7 +1236,7 @@
 		size = 6000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 3575
@@ -1266,7 +1266,7 @@
 		size = 4000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 300
@@ -1298,7 +1298,7 @@
 		size = 9300
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1875
@@ -1328,7 +1328,7 @@
 		size = 4000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 800
@@ -1390,7 +1390,7 @@
 		size = 7000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 3900
@@ -1420,7 +1420,7 @@
 		size = 7000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 725
@@ -1458,7 +1458,7 @@
 		size = 400
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 2100
@@ -1488,7 +1488,7 @@
 		size = 4500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 900
@@ -1520,7 +1520,7 @@
 		size = 9800
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1975
@@ -1550,7 +1550,7 @@
 		size = 4200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 850
@@ -1596,7 +1596,7 @@
 		size = 7550
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1525
@@ -1626,7 +1626,7 @@
 		size = 2250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 450
@@ -1658,7 +1658,7 @@
 		size = 9150
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1850
@@ -1688,7 +1688,7 @@
 		size = 3500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 700
@@ -1720,7 +1720,7 @@
 		size = 6350
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1275
@@ -1750,7 +1750,7 @@
 		size = 1900
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 375
@@ -1782,7 +1782,7 @@
 		size = 3250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 650
@@ -1812,7 +1812,7 @@
 		size = 1500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 300
@@ -1844,7 +1844,7 @@
 		size = 7300
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1475
@@ -1874,7 +1874,7 @@
 		size = 2250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 450
@@ -1908,7 +1908,7 @@
 		size = 2100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1100
@@ -1938,7 +1938,7 @@
 		size = 900
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 175
@@ -1970,7 +1970,7 @@
 		size = 3800
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1100
@@ -2000,7 +2000,7 @@
 		size = 1600
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 325
@@ -2044,7 +2044,7 @@
 		size = 6100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1225
@@ -2074,7 +2074,7 @@
 		size = 2600
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 525
@@ -2120,7 +2120,7 @@
 		size = 5850
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1175
@@ -2150,7 +2150,7 @@
 		size = 2000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 400
@@ -2182,7 +2182,7 @@
 		size = 5150
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1050
@@ -2212,7 +2212,7 @@
 		size = 2200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 450
@@ -2244,7 +2244,7 @@
 		size = 2800
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 575
@@ -2274,7 +2274,7 @@
 		size = 1150
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 225
@@ -2306,7 +2306,7 @@
 		size = 3450
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 700
@@ -2336,7 +2336,7 @@
 		size = 1450
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 300
@@ -2368,7 +2368,7 @@
 		size = 3150
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 650
@@ -2398,7 +2398,7 @@
 		size = 1500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 300
@@ -2430,7 +2430,7 @@
 		size = 4900
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 1100
@@ -2460,7 +2460,7 @@
 		size = 1500
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 300
@@ -2492,7 +2492,7 @@
 		size = 3250
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 650
@@ -2522,7 +2522,7 @@
 		size = 1900
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 375
@@ -2574,7 +2574,7 @@
 		size = 7000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 2600
@@ -2604,7 +2604,7 @@
 		size = 7000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 1100
@@ -2636,7 +2636,7 @@
 		size = 3450
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 700
@@ -2666,7 +2666,7 @@
 		size = 2000
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 400
@@ -2704,7 +2704,7 @@
 		size = 1750
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 2350
@@ -2734,7 +2734,7 @@
 		size = 4450
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = shinto
 		size = 900
@@ -2780,7 +2780,7 @@
 		size = 2200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 450
@@ -2810,7 +2810,7 @@
 		size = 200
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 50
@@ -2842,7 +2842,7 @@
 		size = 1100
 	}
 
-	soldiers = {
+	artisans = {
 		culture = united_culture
 		religion = mahayana
 		size = 200
