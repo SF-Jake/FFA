@@ -1,20 +1,20 @@
 bookmark =
 {
-	name = "GC_NAME"
-	desc = "GC_DESC"
+	name = "1v1 Rectangle"
+	desc = "It's a rectangle"
 	date = 1836.1.1
+	cameraX = 2200
+	cameraY = 1600
+}
+
+bookmark =
+{
+	name = "1v1 France vs Germany"
+	desc = ""
+	date = 1836.1.2
 	cameraX = 2950
 	cameraY = 1550
 }
-
-#bookmark =
-#{
-#	name = "NE_NAME"
-#	desc = "NE_DESC"
-#	date = 1821.1.1
-#	cameraX = 2950
-#	cameraY = 1550
-#}
 
 #bookmark =
 #{

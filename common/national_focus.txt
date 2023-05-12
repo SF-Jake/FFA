@@ -434,11 +434,8 @@ production_focus =
 	chemical_focus =
 	{
 		fuel = 30
-		oil = 30
 		cigarettes = 20
 		pharmaceuticals = 20
-		sulphur = 30
-		rubber = 30
 		icon = 18
 	}
 
@@ -458,7 +455,6 @@ production_focus =
 		luxury_clothes = 15
 		regular_clothes = 30
 		fabric = 30
-		dye = 30
 		icon = 20
 		#limit = { 
 		#	civilized = yes

@@ -1,8 +1,8 @@
 owner = PRG
 
 controller = PRG
-trade_goods = grain
+trade_goods = cotton
 add_core = PRG
 
-trade_goods = grain
+trade_goods = cotton
 life_rating = 30

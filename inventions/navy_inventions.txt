@@ -28,25 +28,6 @@ building_station_shipyards = {
 	}
 }
 #steamers
-mechanized_fishing_vessels = {
-	limit = { steamers = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			steamers = 1
-		}
-		modifier = {
-			factor = 2
-			invention = work_specialization
-		}
-	}
-	effect = {
-		rgo_goods_output = {
-			fish = 0.1
-		}
-	}
-}
 steamer_automatic_construction_plants = {
 	limit = { steamers = 1 }
 	chance = {

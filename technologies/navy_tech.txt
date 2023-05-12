@@ -658,10 +658,6 @@ clipper_design = {
 			tech_school = naval_tech_school
 		}
 		# Valuable for major producers of fish (+50% output invention)
-		modifier = {
-			factor = 1.03
-			big_producer = fish
-		}
 		# GPs with 9 or more coastal provinces (Prussia+)
 		modifier = {
 			factor = 1.5
@@ -743,10 +739,6 @@ steamers = {
 			tech_school = naval_tech_school
 		}
 		# Valuable for major producers of fish (+50% output invention)
-		modifier = {
-			factor = 1.03
-			big_producer = fish
-		}
 		# GPs with 9 or more coastal provinces (Prussia+)
 		modifier = {
 			factor = 1.5

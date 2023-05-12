@@ -24,17 +24,11 @@ everyday_needs = {
 	luxury_furniture = 5
 	cigarettes = 10
 	coffee = 5
-	rubber = 5
 	tea = 10
-	opium = 10
 }
 
 life_needs = {
-	cattle = 0.8
-	wool =  0.8
-	fish =  0.8
-	fruit =  1.2
-	grain =  2.4
+	cotton =  2.4
 }
 
 

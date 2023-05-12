@@ -5,14 +5,15 @@ post_napoleonic_thought = {
 	cost = 3600
 	unciv_military = yes
 
+	activate_unit = infantry_defensive
+	
 	activate_building = fort	
 	army_base = {
+		default_organisation = 5
 		supply_consumption = 0.05
 	}
 	dig_in_cap = 1
-	engineer = {
-		support = 0.25
-	} 	
+
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -52,9 +53,9 @@ strategic_mobility = {
 	year = 1836
 	cost = 7200
 	unciv_military = yes
-	engineer = {
-		support = 0.25
-	} 
+	
+	activate_unit = artillery_defensive
+	
 	army_base = {
 		supply_consumption = 0.05
 	}
@@ -163,14 +164,12 @@ deep_defense_system = {
 	year = 1870
 	cost = 14400
 	unciv_military = yes
-
 	engineer = {
 		support = 0.25
 	} 
 	army_base = {
 		supply_consumption = 0.10
 	} 
-	
 	max_fort = 1
 	dig_in_cap = 1
 	
@@ -215,8 +214,8 @@ trench_systems = {
 	unciv_military = yes
 	
 	army_base = {
-		supply_consumption = 0.10
-	} 
+		supply_consumption = 0.05
+	}
 	max_fort = 1
 	dig_in_cap = 1
 	
@@ -268,10 +267,10 @@ infiltration = {
 	unciv_military = yes
 	activate_unit = tank
 	activate_building = barrel_factory 
-	
+		
 	army_base = {
-		supply_consumption = 0.15
-	} 
+		supply_consumption = 0.05
+	}
 	
 	max_fort = 1
 	dig_in_cap = 1
@@ -316,7 +315,7 @@ modern_army_doctrine = {
 	unciv_military = yes
 	
 	army_base = {
-		supply_consumption = 0.2
+		supply_consumption = 0.05
 	}
 	
 	max_fort = 1
@@ -451,7 +450,6 @@ breech_loaded_rifles = {
 	area = light_armament
 	year = 1850
 	cost = 10800
-	activate_unit = guard
 
 	unciv_military = yes
 
@@ -501,13 +499,13 @@ machine_guns = {
 	cost = 14400
 	unciv_military = yes
 	
-	combat_width = -3
-
+	combat_width = -3 #was-5
+	#colonial_life_rating = -10 
 	ai_chance = {
 		factor = 6
 		modifier = {
-			factor = 2
-			rank = 16
+			factor = 6
+			rank = 20
 		}
 		modifier = {
 			factor = 1.5
@@ -594,7 +592,7 @@ chemical_weapons = {
 	unciv_military = yes
 
 	unit = 2
-	combat_width = -2
+	combat_width = -3
 	
 		ai_chance = {
 		factor = 1.1
@@ -639,7 +637,7 @@ modern_divisional_structure = {
 	cost = 21600
 	unciv_military = yes
 
-	unit = 2
+	combat_width = -3 #was-5
 	
 		ai_chance = {
 		factor = 1.1
@@ -726,6 +724,14 @@ iron_muzzle_loaded_artillery = {
 		support = 0.25
 		supply_consumption = 0.05
 	}
+	artillery_offensive = {
+		support = 0.25
+		supply_consumption = 0.05
+	}
+	artillery_defensive = {
+		support = 0.25
+		supply_consumption = 0.05
+	}
 	
 	ai_chance = {
 		factor = 1.05
@@ -769,6 +775,14 @@ iron_breech_loaded_artillery = {
 		support = 0.25
 		supply_consumption = 0.05
 	}
+	artillery_offensive = {
+		support = 0.25
+		supply_consumption = 0.05
+	}
+	artillery_defensive = {
+		support = 0.25
+		supply_consumption = 0.05
+	}
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -808,6 +822,14 @@ steel_breech_loaded_artillery = {
 	cost = 14400
 	unciv_military = yes
 	artillery = {
+		support = 0.5
+		supply_consumption = 0.05
+	}
+	artillery_offensive = {
+		support = 0.5
+		supply_consumption = 0.05
+	}
+	artillery_defensive = {
 		support = 0.5
 		supply_consumption = 0.05
 	}
@@ -854,6 +876,14 @@ indirect_artillery_fire = {
 		support = 1
 		supply_consumption = 0.05
 	}
+	artillery_offensive = {
+		support = 1
+		supply_consumption = 0.05
+	}
+	artillery_defensive = {
+		support = 1
+		supply_consumption = 0.05
+	}
 	
 	ai_chance = {
 		factor = 1.05
@@ -894,6 +924,14 @@ creeping_barrage = {
 	cost = 21600
 	unciv_military = yes
 	artillery = {
+		support = 0.5
+		supply_consumption = 0.15
+	}
+	artillery_offensive = {
+		support = 0.5
+		supply_consumption = 0.15
+	}
+	artillery_defensive = {
 		support = 0.5
 		supply_consumption = 0.15
 	}
@@ -940,6 +978,14 @@ railway_gun = {
 		support = 0.5
 		supply_consumption = 0.15
 	}
+	artillery_offensive = {
+		support = 0.5
+		supply_consumption = 0.15
+	}
+	artillery_defensive = {
+		support = 0.5
+		supply_consumption = 0.15
+	}
 	
 	ai_chance = {
 		factor = 1.05
@@ -983,9 +1029,11 @@ military_staff_system = {
 	cost = 3600
 	unciv_military = yes
 	
+	activate_unit = infantry_offensive
+	
 	army_base = {
-		default_organisation = 2.5
-		supply_consumption = 0.10
+		default_organisation = 5
+		supply_consumption = 0.05
 	}
 	
 	ai_chance = {
@@ -1027,8 +1075,10 @@ military_plans = {
 	cost = 7200
 	unciv_military = yes
 	
+	activate_unit = artillery_offensive
+	
 	army_base = {
-		default_organisation = 2.5
+		default_organisation = 5
 		supply_consumption = 0.05
 	}
 	
@@ -1072,8 +1122,8 @@ military_statistics = {
 	unciv_military = yes
 	
 	army_base = {
-		default_organisation = 2.5
-		supply_consumption = 0.05
+		default_organisation = 5
+		#supply_consumption = 0.05
 	}
 	
 	ai_chance = {
@@ -1116,10 +1166,11 @@ military_logistics = {
 	unciv_military = yes
 	
 	army_base = {
-		default_organisation = 2.5
-		supply_consumption = 0.10
+		default_organisation = 5
+		#supply_consumption = 0.05
 	}
-	
+	mobilisation_size = 0.02
+
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -1159,6 +1210,10 @@ aeronautics = {
 	cost = 21600
 	activate_unit = plane
 	activate_building = aeroplane_factory
+	plane = {
+		default_organisation = 10
+		supply_consumption = 0.05
+	}
 	
 	unciv_military = yes
 	
@@ -1242,12 +1297,12 @@ combined_arms_experiments = {
 	area = military_science
 	year = 1925
 	cost = 28800
-	
 	unciv_military = yes
-	light_tank = {
-		support = 0.25
-	} 	
-	
+
+	army_base = {
+		default_organisation = 10
+		supply_consumption = 0.05
+	}	
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -1289,7 +1344,7 @@ army_command_principle = {
 	year = 1836
 	cost = 3600
 
-	morale = 0.10
+	morale = 0.25
 	unciv_military = yes
 	military_tactics = 0.25
 
@@ -1377,7 +1432,7 @@ army_decision_making = {
 	year = 1850
 	cost = 10800
 	unciv_military = yes
-	morale = 0.1
+	morale = 0.2
 
 	military_tactics = 0.25
 
@@ -1432,12 +1487,12 @@ army_risk_management = {
 	year = 1870
 	cost = 14400
 	unciv_military = yes
-	morale = 0.1
+	morale = 0.20
 
 	military_tactics = 0.25
 
 	army_base = {
-		supply_consumption = 0.10
+		supply_consumption = 0.05
 	}
 	
 	ai_chance = {
@@ -1487,13 +1542,12 @@ army_nco_training = {
 	year = 1890
 	cost = 18000
 	unciv_military = yes
-	morale = 0.1
-	
+	morale = 0.25
 
 	military_tactics = 0.25
 
 	army_base = {
-		supply_consumption = 0.25
+		supply_consumption = 0.05
 	}
 	
 	ai_chance = {
@@ -1543,12 +1597,12 @@ great_war_experience = {
 	year = 1910
 	cost = 21600
 	unciv_military = yes
-	morale = 0.25
+	morale = 0.5
 
 	military_tactics = 0.25
 
 	army_base = {
-		supply_consumption = 0.15
+		supply_consumption = 0.05
 	}
 	
 	ai_chance = {
@@ -1589,12 +1643,12 @@ total_war_philosophy = {
 	year = 1925
 	cost = 21600
 	unciv_military = yes
-	morale = 0.25
+	morale = 0.5
 
 	military_tactics = 0.25
 
 	army_base = {
-		supply_consumption = 0.3
+		supply_consumption = 0.05
 	}
 	
 	ai_chance = {

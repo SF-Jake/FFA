@@ -1983,3 +1983,12 @@ accepts_new_provinces = {
 	immigrant_attract = -.001
 	icon = 20
 }
+
+### 1v1 Modifiers
+
+national_1v1 = {
+	pop_militancy_modifier = -0.5
+	tax_efficiency = 0.10
+	global_immigrant_attract = -100
+	icon = 15
+}

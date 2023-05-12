@@ -50,11 +50,7 @@ everyday_needs = {
 }
 
 life_needs = {
-	cattle = 0.8
-	wool =  0.8
-	fish =  0.8
-	fruit =  1.2
-	grain =  2.4
+	cotton =  2.4
 }
 
 

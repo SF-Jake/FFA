@@ -5,12 +5,11 @@ plane = {
 	sprite = Plane
 	active = no
 	unit_type = support
-	primary_culture = yes
 	floating_flag = no
 	
 	#Core Abilities
 	priority = 45
-	max_strength = 3
+	max_strength = 2
 	default_organisation = 30
 	maximum_speed = 5.00
 	weighted_value = 10.0
@@ -26,20 +25,20 @@ plane = {
 	}
 	
 	supply_consumption = 1.0
-	supply_cost = {
-		aeroplanes = 0.3
-		small_arms = 0.1
-		ammunition = 0.1	
-		canned_food = 0.05
-		fuel = 0.8
+	supply_cost = { #7.78 total #31.12 total with late game invention/tech consumption ONLY
+		aeroplanes = 0.08 #5.6
+		small_arms = 0.014 #0.35
+		ammunition = 0.226 #1.13	
+		canned_food = 0.07 #0.7
+		fuel = 0.055
 	}
 	
 
 	#Land Abilties
 	reconnaissance = 4
-	attack = 4
-	defence = 6
-	discipline = 1
-	support = 3.5
-	maneuver = 5
+	attack = 8.012
+	defence = 8.012
+	discipline = 0.5
+	support = 5
+	maneuver = 1
 }

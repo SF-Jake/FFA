@@ -2,5 +2,5 @@ owner = BOL
 controller = BOL
 add_core = BOL
 add_core = PRG
-trade_goods = grain
+trade_goods = cotton
 life_rating = 30

@@ -1,6 +1,10 @@
 owner = JAN
 controller = JAN
 add_core = JAN
-trade_goods = grain
+trade_goods = cotton
 life_rating = 40 
- 
+1836.1.2 = {
+owner = GER
+controller = GER
+add_core = GER
+} 
