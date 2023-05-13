@@ -6051,7 +6051,7 @@
 	clergymen = {
 		culture = united_culture
 		religion = orthodox
-		size =2000
+		size = 2000
 	}
 
 	artisans = {

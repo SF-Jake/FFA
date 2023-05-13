@@ -682,7 +682,7 @@ artisan_small_arms = {
 
 artisan_steel = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5   		#6.4	total input+maint = 6.4
 	}
 	output_goods = steel 
 	
@@ -699,11 +699,11 @@ artisan_steel = {
 }
 artisan_cement = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = cement 
 	
-	value = 30			#12
+	value = 15			#12
 	
 	owner = {
 		poptype = artisan 
@@ -716,11 +716,11 @@ artisan_cement = {
 }
 artisan_machine_parts = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = machine_parts 
 	
-	value = 30			#12
+	value = 15			#12
 	
 	owner = {
 		poptype = artisan 
@@ -733,11 +733,11 @@ artisan_machine_parts = {
 }
 artisan_glass = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = glass 
 	
-	value = 30			#12
+	value = 15			#12
 	
 	owner = {
 		poptype = artisan 
@@ -750,11 +750,11 @@ artisan_glass = {
 }
 artisan_fertilizer = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = fertilizer 
 	
-	value = 30			#12
+	value = 5			#12
 	
 	owner = {
 		poptype = artisan 
@@ -767,7 +767,7 @@ artisan_fertilizer = {
 }
 artisan_explosives = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = explosives 
 	
@@ -784,11 +784,11 @@ artisan_explosives = {
 }
 artisan_clipper_convoy = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = clipper_convoy 
 	
-	value = 30			#12
+	value = 1.5			#12
 	
 	owner = {
 		poptype = artisan 
@@ -801,11 +801,11 @@ artisan_clipper_convoy = {
 }
 artisan_steamer_convoy = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = steamer_convoy 
 	
-	value = 30			#12
+	value = 1.5			#12
 	
 	owner = {
 		poptype = artisan 
@@ -818,7 +818,7 @@ artisan_steamer_convoy = {
 }
 artisan_fabric = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = fabric 
 	
@@ -835,7 +835,7 @@ artisan_fabric = {
 }
 artisan_lumber = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = lumber 
 	
@@ -852,11 +852,11 @@ artisan_lumber = {
 }
 artisan_paper = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = paper 
 	
-	value = 30			#12
+	value = 5			#12
 	
 	owner = {
 		poptype = artisan 
@@ -869,11 +869,11 @@ artisan_paper = {
 }
 artisan_wine = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = wine 
 	
-	value = 30			#12
+	value = 8			#12
 	
 	owner = {
 		poptype = artisan 
@@ -886,11 +886,11 @@ artisan_wine = {
 }
 artisan_liquor = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = liquor 
 	
-	value = 30			#12
+	value = 15			#12
 	
 	owner = {
 		poptype = artisan 
@@ -903,11 +903,11 @@ artisan_liquor = {
 }
 artisan_regular_clothes = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = regular_clothes 
 	
-	value = 30			#12
+	value = 15			#12
 	
 	owner = {
 		poptype = artisan 
@@ -920,11 +920,11 @@ artisan_regular_clothes = {
 }
 artisan_luxury_clothes = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = luxury_clothes 
 	
-	value = 30			#12
+	value = 5			#12
 	
 	owner = {
 		poptype = artisan 
@@ -937,11 +937,11 @@ artisan_luxury_clothes = {
 }
 artisan_furniture = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = furniture 
 	
-	value = 30			#12
+	value = 15			#12
 	
 	owner = {
 		poptype = artisan 
@@ -954,11 +954,11 @@ artisan_furniture = {
 }
 artisan_luxury_furniture = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = luxury_furniture 
 	
-	value = 30			#12
+	value = 3			#12
 	
 	owner = {
 		poptype = artisan 
@@ -971,11 +971,11 @@ artisan_luxury_furniture = {
 }
 artisan_pharmaceuticals = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = pharmaceuticals 
 	
-	value = 30			#12
+	value = 3			#12
 	
 	owner = {
 		poptype = artisan 
@@ -988,11 +988,11 @@ artisan_pharmaceuticals = {
 }
 artisan_cigarettes = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = cigarettes 
 	
-	value = 30			#12
+	value = 6			#12
 	
 	owner = {
 		poptype = artisan 
@@ -1005,11 +1005,11 @@ artisan_cigarettes = {
 }
 artisan_tea = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = tea 
 	
-	value = 30			#12
+	value = 8			#12
 	
 	owner = {
 		poptype = artisan 
@@ -1022,11 +1022,11 @@ artisan_tea = {
 }
 artisan_coffee = {       
 	input_goods = {       
-		cotton = 20		#6.4	total input+maint = 6.4
+		cotton = 5		#6.4	total input+maint = 6.4
 	}
 	output_goods = coffee 
 	
-	value = 30			#12
+	value = 8			#12
 	
 	owner = {
 		poptype = artisan 

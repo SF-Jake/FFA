@@ -1,17 +1,10 @@
 political_decisions = {
 	banker_income = {
 		potential = {
-			tag = JAN
+			tag = GHO
 		}
 		
 		allow = {
-			NOT = {
-				any_owned_province = {
-					any_pop = {
-						cash_reserves = 0.1
-					}
-				}
-			}
 			NOT = { has_country_flag = banker_income_timer }
 		}
 		
@@ -19,6 +12,10 @@ political_decisions = {
 			set_country_flag = banker_income_timer
 			add_country_modifier = { name = banker_income_timer duration = 5 }
 			any_pop = {
+				limit = { 
+					type = bankers 
+					NOT = { cash_reserves = 0.1 }
+				}
 				money = 2000000
 			}
 		}
@@ -26,7 +23,7 @@ political_decisions = {
 
 	banker_income_timer = {
 		potential = {
-			tag = JAN
+			tag = GHO
 		}
 		
 		allow = {
@@ -39,7 +36,7 @@ political_decisions = {
 		}
 	}
 
-	banker_annex = {
+	banker_setup = {
 		potential = {
 			tag = JAN
 		}
@@ -50,9 +47,16 @@ political_decisions = {
 		
 		effect = {
 			set_country_flag = banker_annex
+			any_owned = {
+				remove_core = GER
+				remove_core = FRA
+				remove_core = USA
+				remove_core = CSA
+			}
 			any_country = {
 				limit = {
 					NOT = {
+						tag = GHO
 						tag = GER
 						tag = FRA
 						tag = USA
@@ -65,10 +69,34 @@ political_decisions = {
 					add_core = THIS
 				}
 			}
+			any_pop = {
+				limit = { type = soldiers }
+				pop_type = farmers
+			}
+			any_country = {
+				activate_technology = early_classical_theory_and_critique
+			}
+			set_country_flag = jan_mayen
+			GHO = { 
+				set_country_flag = jan_mayen
+			}
+			GHO = {
+				add_country_modifier = {
+					name = bank_nerf
+					duration = -1
+				}
+			}
+			add_country_modifier = {
+				name = bank_nerf
+				duration = -1
+			}
 			GER = { 
 				add_country_modifier = {
 					name = national_1v1
 					duration = -1
+				}
+				any_owned = {
+					remove_core = JAN
 				}
 			}
 			FRA = { 
@@ -76,17 +104,26 @@ political_decisions = {
 					name = national_1v1
 					duration = -1
 				}
+				any_owned = {
+					remove_core = JAN
+				}
 			}
 			USA = { 
 				add_country_modifier = {
 					name = national_1v1
 					duration = -1
 				}
+				any_owned = {
+					remove_core = JAN
+				}
 			}
 			CSA = { 
 				add_country_modifier = {
 					name = national_1v1
 					duration = -1
+				}
+				any_owned = {
+					remove_core = JAN
 				}
 			}
 		}

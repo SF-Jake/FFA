@@ -1,6 +1,6 @@
-owner = JAN
-controller = JAN
-add_core = JAN
+owner = GHO
+controller = GHO
+add_core = GHO
 trade_goods = cotton
 life_rating = 40 
  

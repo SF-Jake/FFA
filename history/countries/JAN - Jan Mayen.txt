@@ -1,14 +1,13 @@
-capital = 3246
+capital = 2133
 primary_culture = united_culture
 religion = animist
 government = democracy
 plurality = 0
 nationalvalue = nv_liberty
 literacy = 0
-decision = jan_mayen_1836_setup
-decision = build_bosphorus_canal
-decision = build_copenhagen_canal
-decision = build_gibraltar_canal
+civilized = yes
+prestige = 100
+decision = banker_setup
 
 # Political reforms
 slavery = no_slavery

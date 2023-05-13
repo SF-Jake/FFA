@@ -1992,3 +1992,14 @@ national_1v1 = {
 	global_immigrant_attract = -100
 	icon = 15
 }
+
+bank_nerf = {
+	research_points_modifier = -0.55
+	global_pop_militancy_modifier = -10
+	global_pop_consciousness_modifier = -10
+	icon = 15
+}
+
+unciv_cooldown = {
+	icon = 15
+}

@@ -577,7 +577,7 @@
 	farmers = {
 		culture = united_culture
 		religion = shiite
-		size =21050
+		size = 21050
 	}
 }
 #Sari (52000/13000 POPS)

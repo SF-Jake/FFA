@@ -539,6 +539,10 @@ promote_to =
 	{
 		factor = 0.01
 		
+		modifier = {
+			factor = -100
+			country = { has_country_flag = jan_mayen }
+		}
 		group = {		
 			modifier = {
                 factor = -100
