@@ -18,8 +18,17 @@ bookmark =
 
 bookmark =
 {
+	name = "1v1 USA vs CSA"
+	desc = "This is a Early creation of the map nothing in terms of pop is changed for CSA or USA. Do take this map with a grain of salt in terms of balnce as it's hardly been worked on."
+	date = 1836.1.4
+	cameraX = 1500
+	cameraY = 1550
+}
+
+bookmark =
+{
 	name = "2v2 France & Italy vs Germany & Austria"
-	desc = ""
+	desc = "This is a Early creation of the map nothing in terms of pop is changed for Austria or Italy. Germany and France are fine but do take this map with a grain of salt as it's hardly been worked on."
 	date = 1836.1.3
 	cameraX = 2950
 	cameraY = 1550

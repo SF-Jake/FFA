@@ -3,4 +3,8 @@ controller = JAN
 add_core = JAN
 trade_goods = cotton
 life_rating = 40 
- 
+1836.1.4 = {
+owner = USA
+controller = USA
+add_core = USA
+}

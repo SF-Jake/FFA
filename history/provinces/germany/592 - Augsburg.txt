@@ -7,4 +7,10 @@ life_rating = 40
 owner = GER
 controller = GER
 add_core = GER
+}
+1836.1.4 = {
+owner = JAN
+controller = JAN
+add_core = JAN
+remove_core = GER
 } 

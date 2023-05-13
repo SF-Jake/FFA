@@ -3,4 +3,20 @@ controller = JAN
 add_core = JAN
 trade_goods = cotton
 life_rating = 40 
- 
+1836.1.3 = {
+owner = ITA
+controller = ITA
+add_core = ITA
+} 
+1836.1.4 = {
+owner = JAN
+controller = JAN
+add_core = JAN
+remove_core = ITA
+} 
+1836.1.4 = {
+owner = JAN
+controller = JAN
+add_core = JAN
+remove_core = ITA
+} 
