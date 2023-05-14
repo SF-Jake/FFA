@@ -86,6 +86,8 @@
 		socialist = 0
 		communist = 0
 	}
+
+	oob = "FRA_oob.txt"
 }
 
 1836.1.1 = {

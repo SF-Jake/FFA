@@ -36,6 +36,20 @@ political_decisions = {
 		}
 	}
 
+	banker_reduce_money = {
+		potential = {
+			tag = JAN
+		}
+
+		allow = {
+			money = 20000000
+		}
+
+		effect = {
+			money = -19000000
+		}
+	}
+
 	banker_setup = {
 		potential = {
 			tag = JAN
@@ -47,6 +61,7 @@ political_decisions = {
 		
 		effect = {
 			set_country_flag = banker_annex
+			world_wars_enabled = yes
 			any_owned = {
 				remove_core = GER
 				remove_core = FRA
@@ -61,6 +76,8 @@ political_decisions = {
 						tag = FRA
 						tag = USA
 						tag = CSA
+						tag = AUS
+						tag = ITA
 						ai = no
 					}
 				}
@@ -124,6 +141,92 @@ political_decisions = {
 				}
 				any_owned = {
 					remove_core = JAN
+				}
+			}
+		}
+	}
+
+	banker_FRAvsGER_1v1 = {
+		potential = {
+			tag = JAN
+		}
+
+		allow = {
+			has_global_flag = FRAvsGER_1v1
+			NOT = { has_country_flag = banker_FRAvsGER_1v1 }
+			year = 1842
+		}
+
+		effect = {
+			set_country_flag = banker_FRAvsGER_1v1 
+			FRA = {
+				war = {
+					target = GER
+					attacker_goal = { casus_belli = status_quo }
+					defender_goal = { casus_belli = status_quo }
+				}
+			}
+		}
+	}
+	banker_FRA_ITAvsGER_AUS_2v2 = {
+		potential = {
+			tag = JAN
+		}
+
+		allow = {
+			has_global_flag = FRA_ITAvsGER_AUS_2v2
+			NOT = { has_country_flag = banker_FRA_ITAvsGER_AUS_2v2 }
+			year = 1842
+		}
+
+		effect = {
+			set_country_flag = banker_FRA_ITAvsGER_AUS_2v2 
+			ITA = { 
+				create_alliance = FRA
+				leave_alliance = GER
+				leave_alliance = AUS
+			}
+			AUS = { 
+				create_alliance = GER
+				leave_alliance = FRA
+				leave_alliance = ITA
+			}
+			GER = {
+				create_alliance = AUS
+				leave_alliance = FRA
+				leave_alliance = ITA
+			}
+			FRA = {
+				create_alliance = ITA
+				leave_alliance = GER
+				leave_alliance = AUS
+				war = {
+					target = GER
+					attacker_goal = { casus_belli = status_quo }
+					defender_goal = { casus_belli = status_quo }
+					call_ally = yes
+				}
+			}
+		}
+	}
+	banker_USAvsCSA_1v1 = {
+		potential = {
+			tag = JAN
+		}
+
+		allow = {
+			has_global_flag = USAvsCSA_1v1
+			NOT = { has_country_flag = banker_USAvsCSA_1v1 }
+			year = 1842
+		}
+
+		effect = {
+			set_country_flag = banker_USAvsCSA_1v1 
+			USA = {
+				war = {
+					target = CSA
+					attacker_goal = { casus_belli = status_quo }
+					defender_goal = { casus_belli = status_quo }
 				}
 			}
 		}

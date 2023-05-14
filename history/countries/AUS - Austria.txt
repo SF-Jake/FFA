@@ -12,7 +12,7 @@
 	set_country_flag = austria
 
 	#GreaterPowers = prestige
-	prestige = 70
+	prestige = 100
 
 	# Political reforms
 	slavery = no_slavery

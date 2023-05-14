@@ -276,3 +276,40 @@ acquire_state = {
 		}
 	}
 }
+
+status_quo = {
+	sprite_index = 1
+	is_triggered_only = yes
+	months = 12
+	constructing_cb = no
+
+	can_use = {
+		OR = {
+			ai = yes
+			year = 1837
+		}
+		always = no
+	}
+
+	break_truce_prestige_factor = 5
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 60
+
+	badboy_factor = 1
+	prestige_factor = 1
+	peace_cost_factor = 1
+	penalty_factor = 1
+
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
+
+	po_status_quo = yes
+
+	war_name = WAR_NAME
+}

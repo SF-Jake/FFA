@@ -6753,7 +6753,7 @@ MODIFIER_ASSIMILATION_RATE;Assimilation Rate;Taux d'assimilation;Assimilierungsr
 MODIFIER_PRESTIGE;Prestige;Prestige;Prestige;;Prestigio;;;;;;;;;x;;;;
 MODIFIER_FACTORY_COST;Factory Cost;Coût usine;Fabrikkosten;;Coste de fábrica;;;;;;;;;x;;;;
 MODIFIER_LIFE_RATING;Life Rating;Habitabilité;Lebensstandard;;Calidad de vida;;;;;;;;;x;;;;
-MODIFIER_FARM_EFFICIENCY;Farming Efficiency;Efficacité agricole;Landwirtschaftliche Effizienz;;Rendimiento agrícola;;;;;;;;;x;;;;
+MODIFIER_FARM_EFFICIENCY;Production Supplies Efficiency;Efficacité agricole;Landwirtschaftliche Effizienz;;Rendimiento agrícola;;;;;;;;;x;;;;
 MODIFIER_MINE_EFFICIENCY;Mining Efficiency;Efficacité minière;Bergbaueffizienz;;Rendimiento minero;;;;;;;;;x;;;;
 MODIFIER_FARM_SIZE;Farm Size;Taille de la ferme;Bauernhofgröße;;Tamaño de granja;;;;;;;;;x;;;;
 MODIFIER_MINE_SIZE;Mine Size;Taille de la mine;Minengröße;;Tamaño de mina;;;;;;;;;x;;;;
@@ -14820,7 +14820,7 @@ NONE_TYPE_OUTPUT_TECH;;;;;;;;;;;;;;x;;;;
 NONE_TYPE_THROUGHPUT_TECH;;;;;;;;;;;;;;x;;;;
 NONE_TYPE_NONE_EFFECT_TECH;;;;;;;;;;;;;;x;;;;
 TECH_MINE_OUTPUT;Mining output;Rendement minier;Bergbauförderung;;Producción minera;;;;;;;;;x;;;;
-TECH_FARM_OUTPUT;Farming output;Rendement agricole;Landwirtschaftsleistung;;Producción agraria;;;;;;;;;x;;;;
+TECH_FARM_OUTPUT;Production Supplies output;Rendement agricole;Landwirtschaftsleistung;;Producción agraria;;;;;;;;;x;;;;
 TECH_OUTPUT;production output;rendement de la production;Produktionsleistung;;Salida de producción;;;;;;;;;x;;;;
 TECH_INPUT;production input;matières premières de la production;Produktions-Input;;Entrada de producción;;;;;;;;;x;;;;
 TECH_THROUGHPUT;production throughput;débit de la production;Produktionsdurchsatz;;Rendimiento de producción;;;;;;;;;x;;;;

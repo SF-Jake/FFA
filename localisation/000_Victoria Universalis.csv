@@ -2287,7 +2287,7 @@ earth_scorched;Earth Scorched;;;;;;;;;;;;;x
 earth_scorched_desc;We have recently scorched our own land and must wait awhile before doing it again.;;;;;;;;;;;;;x
 zcountry_pass_reform_title;§YPass Reform;;;;;;;;;x;;;;
 zcountry_pass_reform_desc;Lets you pass any reform without the support of the upper house and gives the reform passed modifier for several years. You must still meet other requirements listed in the reform, e.g. you must have medicine in order to enact trinket healthcare and it cannot be less than 6 months since you passed another reform. The passed modifier gives negative tax efficiency and increased militancy.;;;;;;;;;x;;;;
-zcountry_increase_healthcare_title;Enact Healthcare Reform;;;;;;;;;x;;;;
+zcountry_increase_healthcare_title;§YEnact Healthcare Reform;;;;;;;;;x;;;;
 zcountry_increase_healthcare_desc;Raises your healthcare reform by one level and gives the reform passed modifier for several years. This modifier gives negative tax efficiency and increased militancy.;;;;;;;;;x;;;;
 zcountry_increase_conscription_title;Increase Draft Laws;;;;;;;;;x;;;;
 zcountry_increase_conscription_desc;Raises your draft law by one level and gives the reactionary surge modifier for several years. This modifier gives negative tax efficiency, increased militancy, and pushes your POPs to become more reactionary. If your government type is a fascist or communist dictatorship, or you are currently involved in a great war, the draft law will skip to service by requirement.;;;;;;;;;x;;;;
@@ -2297,6 +2297,10 @@ zcountry_decrease_rnd_title;§YDecrease Research and Development;;;;;;;;;x;;;;
 zcountry_decrease_rnd_desc;Lowers current R&D to the lowest level.;;;;;;;;;x;;;;
 zcountry_increase_rnd_title;§YIncrease Research and Development;;;;;;;;;x;;;;
 zcountry_increase_rnd_desc;Raises current R&D to the highest level.;;;;;;;;;x;;;;
+zcountry_increase_mob_title;§YIncrease Mobilization Size;;;;;;;;;x;;;;
+zcountry_increase_mob_desc;Raises current Conscription to the highest level.;;;;;;;;;x;;;;
+zcountry_decrease_mob_title;§YDecrease Mobilization Size;;;;;;;;;x;;;;
+zcountry_decrease_mob_desc;Lowers current Conscription to the lowest level.;;;;;;;;;x;;;;
 martial_law;Martial Law;;;;;;;;;x;;;;
 zcountry_liberal_change_ideology_title;§YSpread Ideology;;;;;;;;;x;;;;
 zcountry_liberal_change_ideology_desc;Adds a +0.1 militancy modifier and large population drift towards the chosen ideology.;;;;;;;;;x;;;;
@@ -2403,40 +2407,42 @@ zprovince_mining_expansion_title;§GMine RGO Expansion.;;;;;;;;;x;;;;
 zprovince_mining_expansion_desc;Gives a permanent boost to mine size to the selected province. Costs 500,000 pounds.;;;;;;;;;x;;;;
 zprovince_large_mining_expansion_title;§GLarge Mine RGO Expansion.;;;;;;;;;x;;;;
 zprovince_large_mining_expansion_desc;Gives a permanent boost to mine size to the selected province. Costs 1,500,000 pounds.;;;;;;;;;x;;;;
-zprovince_agriculture_expansion_title;§GAgriculture RGO Expansion;;;;;;;;;x;;;;
+zprovince_agriculture_expansion_title;§GProvince Production Supply Expansion;;;;;;;;;x;;;;
 zprovince_agriculture_expansion_desc;Gives a permanent boost to farm size to the selected province. Costs 100,000 pounds per every 100k POP in the province rounded up.;;;;;;;;;x;;;;
-zprovince_agriculture_expansion_100k_title;§G0-100k Province Agriculture RGO Expansion.;;;;;;;;;x;;;;
+zprovince_agriculture_expansion_100k_title;§G0-100k Province Production Supply Expansion.;;;;;;;;;x;;;;
 zprovince_agriculture_expansion_100k_desc;Costs 100,000 pounds to give a permanent boost to farm size to the selected province.;;;;;;;;;x;;;;
-zprovince_agriculture_expansion_200k_title;§G100k-200k Province Agriculture RGO Expansion.;;;;;;;;;x;;;;
+zprovince_agriculture_expansion_200k_title;§G100k-200k Province Production Supply Expansion.;;;;;;;;;x;;;;
 zprovince_agriculture_expansion_200k_desc;Costs 200,000 pounds to give a permanent boost to farm size to the selected province.;;;;;;;;;x;;;;
-zprovince_agriculture_expansion_300k_title;§G200k-300k Province Agriculture RGO Expansion.;;;;;;;;;x;;;;
+zprovince_agriculture_expansion_300k_title;§G200k-300k Province Production Supply Expansion.;;;;;;;;;x;;;;
 zprovince_agriculture_expansion_300k_desc;Costs 300,000 pounds to give a permanent boost to farm size to the selected province.;;;;;;;;;x;;;;
-zprovince_agriculture_expansion_400k_title;§G300k-400k Province Agriculture RGO Expansion.;;;;;;;;;x;;;;
+zprovince_agriculture_expansion_400k_title;§G300k-400k Province Production Supply Expansion.;;;;;;;;;x;;;;
 zprovince_agriculture_expansion_400k_desc;Costs 400,000 pounds to give a permanent boost to farm size to the selected province.;;;;;;;;;x;;;;
-zprovince_agriculture_expansion_500k_title;§G400k-500k Province Agriculture RGO Expansion.;;;;;;;;;x;;;;
+zprovince_agriculture_expansion_500k_title;§G400k-500k Province Production Supply Expansion.;;;;;;;;;x;;;;
 zprovince_agriculture_expansion_500k_desc;Costs 500,000 pounds to give a permanent boost to farm size to the selected province.;;;;;;;;;x;;;;
-zprovince_agriculture_expansion_600k_title;§G500k-600k Province Agriculture RGO Expansion.;;;;;;;;;x;;;;
+zprovince_agriculture_expansion_600k_title;§G500k-600k Province Production Supply Expansion.;;;;;;;;;x;;;;
 zprovince_agriculture_expansion_600k_desc;Costs 600,000 pounds to give a permanent boost to farm size to the selected province.;;;;;;;;;x;;;;
-zprovince_agriculture_expansion_700k_title;§G600k-700k Province Agriculture RGO Expansion.;;;;;;;;;x;;;;
+zprovince_agriculture_expansion_700k_title;§G600k-700k Province Production Supply Expansion.;;;;;;;;;x;;;;
 zprovince_agriculture_expansion_700k_desc;Costs 700,000 pounds to give a permanent boost to farm size to the selected province.;;;;;;;;;x;;;;
-zprovince_agriculture_expansion_800k_title;§G700k-800k Province Agriculture RGO Expansion.;;;;;;;;;x;;;;
+zprovince_agriculture_expansion_800k_title;§G700k-800k Province Production Supply Expansion.;;;;;;;;;x;;;;
 zprovince_agriculture_expansion_800k_desc;Costs 800,000 pounds to give a permanent boost to farm size to the selected province.;;;;;;;;;x;;;;
-zprovince_agriculture_expansion_900k_title;§G800k-900k Province Agriculture RGO Expansion.;;;;;;;;;x;;;;
+zprovince_agriculture_expansion_900k_title;§G800k-900k Province Production Supply Expansion.;;;;;;;;;x;;;;
 zprovince_agriculture_expansion_800k_desc;Costs 900,000 pounds to give a permanent boost to farm size to the selected province.;;;;;;;;;x;;;;
-zprovince_agriculture_expansion_1M_title;§G900k-1M Province Agriculture RGO Expansion.;;;;;;;;;x;;;;
+zprovince_agriculture_expansion_1M_title;§G900k-1M Province Production Supply Expansion.;;;;;;;;;x;;;;
 zprovince_agriculture_expansion_1M_desc;Costs 1,000,000 pounds to give a permanent boost to farm size to the selected province.;;;;;;;;;x;;;;
-zprovince_agriculture_expansion_1M+_title;§G1M+ Province Agriculture RGO Expansion.;;;;;;;;;x;;;;
+zprovince_agriculture_expansion_1M+_title;§G1M+ Province Production Supply Expansion.;;;;;;;;;x;;;;
 zprovince_agriculture_expansion_1M+_desc;Costs 1,500,000 pounds to give a permanent boost to farm size to the selected province.;;;;;;;;;x;;;;
-zstate_agriculture_expansion_500k_title;§G0-500k State Agriculture RGO Expansion;;;;;;;;;x;;;;
+zstate_agriculture_expansion_500k_title;§G0-500k State Production Supply Expansion;;;;;;;;;x;;;;
 zstate_agriculture_expansion_500k_desc;Costs 500,000 pounds to give a permanent boost to farm size to every province in the selected state.;;;;;;;;;x;;;;
-zstate_agriculture_expansion_1M_title;§G500k-1M State Agriculture RGO Expansion;;;;;;;;;x;;;;
+zstate_agriculture_expansion_1M_title;§G500k-1M State Production Supply Expansion;;;;;;;;;x;;;;
 zstate_agriculture_expansion_1M_desc;Costs 1,000,000 pounds to give a permanent boost to farm size to every province in the selected state.;;;;;;;;;x;;;;
-zstate_agriculture_expansion_2M_title;§G1M-2M State Agriculture RGO Expansion;;;;;;;;;x;;;;
+zstate_agriculture_expansion_2M_title;§G1M-2M State Production Supply Expansion;;;;;;;;;x;;;;
 zstate_agriculture_expansion_2M_desc;Costs 2,000,000 pounds to give a permanent boost to farm size to every province in the selected state.;;;;;;;;;x;;;;
-zstate_agriculture_expansion_4M_title;§G2M-4M State Agriculture RGO Expansion;;;;;;;;;x;;;;
+zstate_agriculture_expansion_4M_title;§G2M-4M State Production Supply Expansion;;;;;;;;;x;;;;
 zstate_agriculture_expansion_4M_desc;Costs 4,000,000 pounds to give a permanent boost to farm size to every province in the selected state.;;;;;;;;;x;;;;
-zstate_agriculture_expansion_4M+_title;§G4M+ State Agriculture RGO Expansion;;;;;;;;;x;;;;
+zstate_agriculture_expansion_4M+_title;§G4M+ State Production Supply Expansion;;;;;;;;;x;;;;
 zstate_agriculture_expansion_4M+_desc;Costs 6,000,000 pounds to give a permanent boost to farm size to every province in the selected state.;;;;;;;;;x;;;;
+zcountry_decrease_healthcare_title;§YDecrease Healthcare Reform;;;;;;;;;x;;;;
+zcountry_decrease_healthcare_desc;Lowers your healthcare reform by one level.;;;;;;;;;x;;;;
 zprovince_blood_and_iron_title;§GBlood and Iron RGO.;;;;;;;;;x;;;;
 zprovince_blood_and_iron_desc;Gives a permanent RGO efficiency bonus and +0.03 militancy modifier to the selected province. Cannot use on gold mines and has a 10 year cooldown.;;;;;;;;;x;;;;
 zprovince_rgo_change_agriculture_title;§GChange Agriculture RGO;;;;;;;;;x;;;;
@@ -2741,7 +2747,7 @@ blood_and_iron;Blood and Iron;;;;;;;;;;;;;x
 blood_and_iron_desc;Blood and iron RGO timer.;;;;;;;;;;;;;x
 literacy_campaign;Literacy Campaign;;;;;;;;;;;;;x
 small_baby_boom;Small Baby Boom;;;;;;;;;;;;;x
-agriculture_expansion;Agriculture Expansion;;;;;;;;;;;;;x
+agriculture_expansion;Production Supplies Expansion;;;;;;;;;;;;;x
 mine_expansion;Mine Expansion;;;;;;;;;;;;;x
 PRO;§WProvince RGO Expansion Flag\n§YIn Victoria 2, when a province changes owners, all old province modifiers are automatically removed. This flag allows RGO expansions to be remembered and transferred if a province changes ownership.;;;;;;;;;;;;;x
 SMA;§YSmall State CB Flag\n§WThis flag enables the Acquire Small State CB to be used against this state and is automatically added to all states with less than 150K population before 1860, less than 200k between 1860-1885, less than 300k between 1885-1910, and less than 450k after 1910. When this state's population rises above the small state threshold this flag will be removed at the start of the following year. §RSmall State CB cannot be used on capital states or uncivilized Sub-Saharan African nations.§!;;;;;;;;;;;;;x

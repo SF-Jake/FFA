@@ -8,6 +8,8 @@
 	literacy = 0.28
 	civilized = yes
 
+	prestige = 100
+
 	# Political reforms
 	slavery = no_slavery
 	upper_house_composition = appointed
@@ -47,6 +49,8 @@
 		socialist = 15
 		communist = 0
 	}
+
+	oob = "ITA_oob.txt"
 }
 
 1836.1.1 = {
