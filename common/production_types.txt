@@ -686,7 +686,7 @@ artisan_steel = {
 	}
 	output_goods = steel 
 	
-	value = 30			#12
+	value = 22.5			#12
 	
 	owner = {
 		poptype = artisan 
@@ -737,7 +737,7 @@ artisan_glass = {
 	}
 	output_goods = glass 
 	
-	value = 15			#12
+	value = 5			#12
 	
 	owner = {
 		poptype = artisan 
@@ -754,7 +754,7 @@ artisan_fertilizer = {
 	}
 	output_goods = fertilizer 
 	
-	value = 5			#12
+	value = 2			#12
 	
 	owner = {
 		poptype = artisan 
@@ -771,7 +771,7 @@ artisan_explosives = {
 	}
 	output_goods = explosives 
 	
-	value = 30			#12
+	value = 17			#12
 	
 	owner = {
 		poptype = artisan 
@@ -924,7 +924,7 @@ artisan_luxury_clothes = {
 	}
 	output_goods = luxury_clothes 
 	
-	value = 5			#12
+	value = 2			#12
 	
 	owner = {
 		poptype = artisan 

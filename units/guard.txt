@@ -15,7 +15,7 @@ guard = {
 	weighted_value = 9.0
 	
 	#Building Costs
-	build_time = 90
+	build_time = 60
 	build_cost = {
 		small_arms = 75 #10
 		canned_food = 10

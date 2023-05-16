@@ -93,6 +93,10 @@ political_decisions = {
 			any_country = {
 				activate_technology = early_classical_theory_and_critique
 			}
+			any_country = {
+				limit = { ai = no }
+				money = 350000
+			}
 			set_country_flag = jan_mayen
 			GHO = { 
 				set_country_flag = jan_mayen
@@ -117,6 +121,24 @@ political_decisions = {
 				}
 			}
 			FRA = { 
+				add_country_modifier = {
+					name = national_1v1
+					duration = -1
+				}
+				any_owned = {
+					remove_core = JAN
+				}
+			}
+			AUS = { 
+				add_country_modifier = {
+					name = national_1v1
+					duration = -1
+				}
+				any_owned = {
+					remove_core = JAN
+				}
+			}
+			ITA = { 
 				add_country_modifier = {
 					name = national_1v1
 					duration = -1
@@ -154,7 +176,7 @@ political_decisions = {
 		allow = {
 			has_global_flag = FRAvsGER_1v1
 			NOT = { has_country_flag = banker_FRAvsGER_1v1 }
-			year = 1842
+			year = 1848
 		}
 
 		effect = {
@@ -176,7 +198,7 @@ political_decisions = {
 		allow = {
 			has_global_flag = FRA_ITAvsGER_AUS_2v2
 			NOT = { has_country_flag = banker_FRA_ITAvsGER_AUS_2v2 }
-			year = 1842
+			year = 1848
 		}
 
 		effect = {
@@ -217,7 +239,7 @@ political_decisions = {
 		allow = {
 			has_global_flag = USAvsCSA_1v1
 			NOT = { has_country_flag = banker_USAvsCSA_1v1 }
-			year = 1842
+			year = 1848
 		}
 
 		effect = {
